@@ -1,0 +1,5482 @@
+[
+    {
+        "id": 1,
+        "Date": "17.02.2020",
+        "LastValue": 1.0834,
+        "OpeningValue": 1.0832,
+        "Max": 1.0852,
+        "Min": 1.0821
+    },
+    {
+        "id": 2,
+        "Date": "18.02.2020",
+        "LastValue": 1.0791,
+        "OpeningValue": 1.0838,
+        "Max": 1.0839,
+        "Min": 1.0785
+    },
+    {
+        "id": 3,
+        "Date": "19.02.2020",
+        "LastValue": 1.0804,
+        "OpeningValue": 1.0791,
+        "Max": 1.0812,
+        "Min": 1.0782
+    },
+    {
+        "id": 4,
+        "Date": "20.02.2020",
+        "LastValue": 1.0783,
+        "OpeningValue": 1.0806,
+        "Max": 1.0821,
+        "Min": 1.0776
+    },
+    {
+        "id": 5,
+        "Date": "21.02.2020",
+        "LastValue": 1.0843,
+        "OpeningValue": 1.0785,
+        "Max": 1.0864,
+        "Min": 1.0783
+    },
+    {
+        "id": 6,
+        "Date": "24.02.2020",
+        "LastValue": 1.0852,
+        "OpeningValue": 1.0841,
+        "Max": 1.0872,
+        "Min": 1.0805
+    },
+    {
+        "id": 7,
+        "Date": "25.02.2020",
+        "LastValue": 1.0879,
+        "OpeningValue": 1.0854,
+        "Max": 1.0891,
+        "Min": 1.0829
+    },
+    {
+        "id": 8,
+        "Date": "26.02.2020",
+        "LastValue": 1.0879,
+        "OpeningValue": 1.0881,
+        "Max": 1.091,
+        "Min": 1.0855
+    },
+    {
+        "id": 9,
+        "Date": "27.02.2020",
+        "LastValue": 1.0998,
+        "OpeningValue": 1.0881,
+        "Max": 1.1006,
+        "Min": 1.0878
+    },
+    {
+        "id": 10,
+        "Date": "28.02.2020",
+        "LastValue": 1.1025,
+        "OpeningValue": 1.1001,
+        "Max": 1.1054,
+        "Min": 1.095
+    },
+    {
+        "id": 11,
+        "Date": "02.03.2020",
+        "LastValue": 1.1132,
+        "OpeningValue": 1.1003,
+        "Max": 1.1186,
+        "Min": 1.1003
+    },
+    {
+        "id": 12,
+        "Date": "03.03.2020",
+        "LastValue": 1.1171,
+        "OpeningValue": 1.1133,
+        "Max": 1.1214,
+        "Min": 1.1095
+    },
+    {
+        "id": 13,
+        "Date": "04.03.2020",
+        "LastValue": 1.1134,
+        "OpeningValue": 1.1172,
+        "Max": 1.1187,
+        "Min": 1.1094
+    },
+    {
+        "id": 14,
+        "Date": "05.03.2020",
+        "LastValue": 1.1239,
+        "OpeningValue": 1.1136,
+        "Max": 1.1245,
+        "Min": 1.1119
+    },
+    {
+        "id": 15,
+        "Date": "06.03.2020",
+        "LastValue": 1.1285,
+        "OpeningValue": 1.1238,
+        "Max": 1.1356,
+        "Min": 1.1212
+    },
+    {
+        "id": 16,
+        "Date": "09.03.2020",
+        "LastValue": 1.1447,
+        "OpeningValue": 1.1292,
+        "Max": 1.1494,
+        "Min": 1.1284
+    },
+    {
+        "id": 17,
+        "Date": "10.03.2020",
+        "LastValue": 1.1279,
+        "OpeningValue": 1.1446,
+        "Max": 1.1459,
+        "Min": 1.1274
+    },
+    {
+        "id": 18,
+        "Date": "11.03.2020",
+        "LastValue": 1.1267,
+        "OpeningValue": 1.128,
+        "Max": 1.1367,
+        "Min": 1.1257
+    },
+    {
+        "id": 19,
+        "Date": "12.03.2020",
+        "LastValue": 1.1183,
+        "OpeningValue": 1.1269,
+        "Max": 1.1334,
+        "Min": 1.1055
+    },
+    {
+        "id": 20,
+        "Date": "13.03.2020",
+        "LastValue": 1.1105,
+        "OpeningValue": 1.1185,
+        "Max": 1.1222,
+        "Min": 1.1054
+    },
+    {
+        "id": 21,
+        "Date": "16.03.2020",
+        "LastValue": 1.1181,
+        "OpeningValue": 1.1085,
+        "Max": 1.1237,
+        "Min": 1.1046
+    },
+    {
+        "id": 22,
+        "Date": "17.03.2020",
+        "LastValue": 1.0996,
+        "OpeningValue": 1.1183,
+        "Max": 1.119,
+        "Min": 1.0955
+    },
+    {
+        "id": 23,
+        "Date": "18.03.2020",
+        "LastValue": 1.0913,
+        "OpeningValue": 1.0997,
+        "Max": 1.1046,
+        "Min": 1.0802
+    },
+    {
+        "id": 24,
+        "Date": "19.03.2020",
+        "LastValue": 1.069,
+        "OpeningValue": 1.0915,
+        "Max": 1.0982,
+        "Min": 1.0654
+    },
+    {
+        "id": 25,
+        "Date": "20.03.2020",
+        "LastValue": 1.0694,
+        "OpeningValue": 1.0691,
+        "Max": 1.0832,
+        "Min": 1.0637
+    },
+    {
+        "id": 26,
+        "Date": "23.03.2020",
+        "LastValue": 1.0721,
+        "OpeningValue": 1.0696,
+        "Max": 1.0828,
+        "Min": 1.0637
+    },
+    {
+        "id": 27,
+        "Date": "24.03.2020",
+        "LastValue": 1.0787,
+        "OpeningValue": 1.0726,
+        "Max": 1.0889,
+        "Min": 1.0722
+    },
+    {
+        "id": 28,
+        "Date": "25.03.2020",
+        "LastValue": 1.088,
+        "OpeningValue": 1.0789,
+        "Max": 1.0895,
+        "Min": 1.0761
+    },
+    {
+        "id": 29,
+        "Date": "26.03.2020",
+        "LastValue": 1.1028,
+        "OpeningValue": 1.0881,
+        "Max": 1.1059,
+        "Min": 1.0869
+    },
+    {
+        "id": 30,
+        "Date": "27.03.2020",
+        "LastValue": 1.114,
+        "OpeningValue": 1.103,
+        "Max": 1.1148,
+        "Min": 1.0953
+    },
+    {
+        "id": 31,
+        "Date": "30.03.2020",
+        "LastValue": 1.1046,
+        "OpeningValue": 1.1136,
+        "Max": 1.1145,
+        "Min": 1.101
+    },
+    {
+        "id": 32,
+        "Date": "31.03.2020",
+        "LastValue": 1.1029,
+        "OpeningValue": 1.1049,
+        "Max": 1.1056,
+        "Min": 1.0926
+    },
+    {
+        "id": 33,
+        "Date": "01.04.2020",
+        "LastValue": 1.0962,
+        "OpeningValue": 1.1031,
+        "Max": 1.104,
+        "Min": 1.0903
+    },
+    {
+        "id": 34,
+        "Date": "02.04.2020",
+        "LastValue": 1.0856,
+        "OpeningValue": 1.0964,
+        "Max": 1.097,
+        "Min": 1.082
+    },
+    {
+        "id": 35,
+        "Date": "03.04.2020",
+        "LastValue": 1.0808,
+        "OpeningValue": 1.0858,
+        "Max": 1.0865,
+        "Min": 1.0773
+    },
+    {
+        "id": 36,
+        "Date": "06.04.2020",
+        "LastValue": 1.0791,
+        "OpeningValue": 1.0813,
+        "Max": 1.0835,
+        "Min": 1.0768
+    },
+    {
+        "id": 37,
+        "Date": "07.04.2020",
+        "LastValue": 1.0889,
+        "OpeningValue": 1.0793,
+        "Max": 1.0926,
+        "Min": 1.0783
+    },
+    {
+        "id": 38,
+        "Date": "08.04.2020",
+        "LastValue": 1.0856,
+        "OpeningValue": 1.0891,
+        "Max": 1.0904,
+        "Min": 1.0829
+    },
+    {
+        "id": 39,
+        "Date": "09.04.2020",
+        "LastValue": 1.0927,
+        "OpeningValue": 1.0857,
+        "Max": 1.0953,
+        "Min": 1.0841
+    },
+    {
+        "id": 40,
+        "Date": "10.04.2020",
+        "LastValue": 1.0935,
+        "OpeningValue": 1.093,
+        "Max": 1.0953,
+        "Min": 1.0919
+    },
+    {
+        "id": 41,
+        "Date": "13.04.2020",
+        "LastValue": 1.0913,
+        "OpeningValue": 1.0941,
+        "Max": 1.0969,
+        "Min": 1.0892
+    },
+    {
+        "id": 42,
+        "Date": "14.04.2020",
+        "LastValue": 1.0979,
+        "OpeningValue": 1.0914,
+        "Max": 1.0988,
+        "Min": 1.0904
+    },
+    {
+        "id": 43,
+        "Date": "15.04.2020",
+        "LastValue": 1.0907,
+        "OpeningValue": 1.098,
+        "Max": 1.0991,
+        "Min": 1.0856
+    },
+    {
+        "id": 44,
+        "Date": "16.04.2020",
+        "LastValue": 1.0835,
+        "OpeningValue": 1.0911,
+        "Max": 1.0913,
+        "Min": 1.0817
+    },
+    {
+        "id": 45,
+        "Date": "17.04.2020",
+        "LastValue": 1.0876,
+        "OpeningValue": 1.0835,
+        "Max": 1.0893,
+        "Min": 1.0812
+    },
+    {
+        "id": 46,
+        "Date": "20.04.2020",
+        "LastValue": 1.0862,
+        "OpeningValue": 1.0875,
+        "Max": 1.0898,
+        "Min": 1.0841
+    },
+    {
+        "id": 47,
+        "Date": "21.04.2020",
+        "LastValue": 1.0856,
+        "OpeningValue": 1.0862,
+        "Max": 1.0882,
+        "Min": 1.0816
+    },
+    {
+        "id": 48,
+        "Date": "22.04.2020",
+        "LastValue": 1.0822,
+        "OpeningValue": 1.0857,
+        "Max": 1.0886,
+        "Min": 1.0802
+    },
+    {
+        "id": 49,
+        "Date": "23.04.2020",
+        "LastValue": 1.0776,
+        "OpeningValue": 1.0824,
+        "Max": 1.0848,
+        "Min": 1.0755
+    },
+    {
+        "id": 50,
+        "Date": "24.04.2020",
+        "LastValue": 1.082,
+        "OpeningValue": 1.0778,
+        "Max": 1.0831,
+        "Min": 1.0726
+    },
+    {
+        "id": 51,
+        "Date": "27.04.2020",
+        "LastValue": 1.0828,
+        "OpeningValue": 1.0809,
+        "Max": 1.0862,
+        "Min": 1.0808
+    },
+    {
+        "id": 52,
+        "Date": "28.04.2020",
+        "LastValue": 1.0818,
+        "OpeningValue": 1.0829,
+        "Max": 1.089,
+        "Min": 1.081
+    },
+    {
+        "id": 53,
+        "Date": "29.04.2020",
+        "LastValue": 1.0873,
+        "OpeningValue": 1.0819,
+        "Max": 1.0886,
+        "Min": 1.0818
+    },
+    {
+        "id": 54,
+        "Date": "30.04.2020",
+        "LastValue": 1.0955,
+        "OpeningValue": 1.0872,
+        "Max": 1.0973,
+        "Min": 1.0833
+    },
+    {
+        "id": 55,
+        "Date": "01.05.2020",
+        "LastValue": 1.0983,
+        "OpeningValue": 1.0956,
+        "Max": 1.1019,
+        "Min": 1.0934
+    },
+    {
+        "id": 56,
+        "Date": "04.05.2020",
+        "LastValue": 1.0906,
+        "OpeningValue": 1.098,
+        "Max": 1.098,
+        "Min": 1.0895
+    },
+    {
+        "id": 57,
+        "Date": "05.05.2020",
+        "LastValue": 1.0838,
+        "OpeningValue": 1.0907,
+        "Max": 1.0927,
+        "Min": 1.0826
+    },
+    {
+        "id": 58,
+        "Date": "06.05.2020",
+        "LastValue": 1.0794,
+        "OpeningValue": 1.0836,
+        "Max": 1.0848,
+        "Min": 1.0782
+    },
+    {
+        "id": 59,
+        "Date": "07.05.2020",
+        "LastValue": 1.0832,
+        "OpeningValue": 1.0795,
+        "Max": 1.0835,
+        "Min": 1.0766
+    },
+    {
+        "id": 60,
+        "Date": "08.05.2020",
+        "LastValue": 1.084,
+        "OpeningValue": 1.0833,
+        "Max": 1.0876,
+        "Min": 1.0814
+    },
+    {
+        "id": 61,
+        "Date": "11.05.2020",
+        "LastValue": 1.0806,
+        "OpeningValue": 1.0838,
+        "Max": 1.0851,
+        "Min": 1.08
+    },
+    {
+        "id": 62,
+        "Date": "12.05.2020",
+        "LastValue": 1.0846,
+        "OpeningValue": 1.0807,
+        "Max": 1.0885,
+        "Min": 1.0784
+    },
+    {
+        "id": 63,
+        "Date": "13.05.2020",
+        "LastValue": 1.0816,
+        "OpeningValue": 1.0848,
+        "Max": 1.0897,
+        "Min": 1.0811
+    },
+    {
+        "id": 64,
+        "Date": "14.05.2020",
+        "LastValue": 1.0804,
+        "OpeningValue": 1.0819,
+        "Max": 1.0826,
+        "Min": 1.0775
+    },
+    {
+        "id": 65,
+        "Date": "15.05.2020",
+        "LastValue": 1.0815,
+        "OpeningValue": 1.0805,
+        "Max": 1.0851,
+        "Min": 1.0789
+    },
+    {
+        "id": 66,
+        "Date": "18.05.2020",
+        "LastValue": 1.0912,
+        "OpeningValue": 1.0816,
+        "Max": 1.0927,
+        "Min": 1.0799
+    },
+    {
+        "id": 67,
+        "Date": "19.05.2020",
+        "LastValue": 1.0921,
+        "OpeningValue": 1.0913,
+        "Max": 1.0977,
+        "Min": 1.0901
+    },
+    {
+        "id": 68,
+        "Date": "20.05.2020",
+        "LastValue": 1.0977,
+        "OpeningValue": 1.0928,
+        "Max": 1.1,
+        "Min": 1.0918
+    },
+    {
+        "id": 69,
+        "Date": "21.05.2020",
+        "LastValue": 1.0949,
+        "OpeningValue": 1.0979,
+        "Max": 1.101,
+        "Min": 1.0936
+    },
+    {
+        "id": 70,
+        "Date": "22.05.2020",
+        "LastValue": 1.09,
+        "OpeningValue": 1.0949,
+        "Max": 1.0961,
+        "Min": 1.0885
+    },
+    {
+        "id": 71,
+        "Date": "25.05.2020",
+        "LastValue": 1.0899,
+        "OpeningValue": 1.0903,
+        "Max": 1.0915,
+        "Min": 1.087
+    },
+    {
+        "id": 72,
+        "Date": "26.05.2020",
+        "LastValue": 1.098,
+        "OpeningValue": 1.0899,
+        "Max": 1.0997,
+        "Min": 1.0891
+    },
+    {
+        "id": 73,
+        "Date": "27.05.2020",
+        "LastValue": 1.1003,
+        "OpeningValue": 1.0983,
+        "Max": 1.1032,
+        "Min": 1.0934
+    },
+    {
+        "id": 74,
+        "Date": "28.05.2020",
+        "LastValue": 1.1076,
+        "OpeningValue": 1.1005,
+        "Max": 1.1094,
+        "Min": 1.0991
+    },
+    {
+        "id": 75,
+        "Date": "29.05.2020",
+        "LastValue": 1.1098,
+        "OpeningValue": 1.1078,
+        "Max": 1.1146,
+        "Min": 1.107
+    },
+    {
+        "id": 76,
+        "Date": "01.06.2020",
+        "LastValue": 1.1134,
+        "OpeningValue": 1.1097,
+        "Max": 1.1155,
+        "Min": 1.1095
+    },
+    {
+        "id": 77,
+        "Date": "02.06.2020",
+        "LastValue": 1.1169,
+        "OpeningValue": 1.1137,
+        "Max": 1.1197,
+        "Min": 1.1114
+    },
+    {
+        "id": 78,
+        "Date": "03.06.2020",
+        "LastValue": 1.1232,
+        "OpeningValue": 1.1172,
+        "Max": 1.1257,
+        "Min": 1.1166
+    },
+    {
+        "id": 79,
+        "Date": "04.06.2020",
+        "LastValue": 1.1336,
+        "OpeningValue": 1.1234,
+        "Max": 1.1363,
+        "Min": 1.1194
+    },
+    {
+        "id": 80,
+        "Date": "05.06.2020",
+        "LastValue": 1.1284,
+        "OpeningValue": 1.1337,
+        "Max": 1.1385,
+        "Min": 1.1278
+    },
+    {
+        "id": 81,
+        "Date": "08.06.2020",
+        "LastValue": 1.1292,
+        "OpeningValue": 1.1289,
+        "Max": 1.1321,
+        "Min": 1.1267
+    },
+    {
+        "id": 82,
+        "Date": "09.06.2020",
+        "LastValue": 1.134,
+        "OpeningValue": 1.1297,
+        "Max": 1.1365,
+        "Min": 1.1241
+    },
+    {
+        "id": 83,
+        "Date": "10.06.2020",
+        "LastValue": 1.1369,
+        "OpeningValue": 1.134,
+        "Max": 1.1423,
+        "Min": 1.1322
+    },
+    {
+        "id": 84,
+        "Date": "11.06.2020",
+        "LastValue": 1.1297,
+        "OpeningValue": 1.1373,
+        "Max": 1.1404,
+        "Min": 1.1287
+    },
+    {
+        "id": 85,
+        "Date": "12.06.2020",
+        "LastValue": 1.1254,
+        "OpeningValue": 1.1299,
+        "Max": 1.1341,
+        "Min": 1.1212
+    },
+    {
+        "id": 86,
+        "Date": "15.06.2020",
+        "LastValue": 1.1322,
+        "OpeningValue": 1.1245,
+        "Max": 1.1334,
+        "Min": 1.1226
+    },
+    {
+        "id": 87,
+        "Date": "16.06.2020",
+        "LastValue": 1.1263,
+        "OpeningValue": 1.1325,
+        "Max": 1.1353,
+        "Min": 1.1228
+    },
+    {
+        "id": 88,
+        "Date": "17.06.2020",
+        "LastValue": 1.1243,
+        "OpeningValue": 1.1264,
+        "Max": 1.1295,
+        "Min": 1.1207
+    },
+    {
+        "id": 89,
+        "Date": "18.06.2020",
+        "LastValue": 1.1202,
+        "OpeningValue": 1.1244,
+        "Max": 1.1264,
+        "Min": 1.1185
+    },
+    {
+        "id": 90,
+        "Date": "19.06.2020",
+        "LastValue": 1.1175,
+        "OpeningValue": 1.1205,
+        "Max": 1.1255,
+        "Min": 1.1168
+    },
+    {
+        "id": 91,
+        "Date": "22.06.2020",
+        "LastValue": 1.1258,
+        "OpeningValue": 1.1185,
+        "Max": 1.1271,
+        "Min": 1.1168
+    },
+    {
+        "id": 92,
+        "Date": "23.06.2020",
+        "LastValue": 1.1306,
+        "OpeningValue": 1.1259,
+        "Max": 1.135,
+        "Min": 1.1233
+    },
+    {
+        "id": 93,
+        "Date": "24.06.2020",
+        "LastValue": 1.125,
+        "OpeningValue": 1.1308,
+        "Max": 1.1327,
+        "Min": 1.1248
+    },
+    {
+        "id": 94,
+        "Date": "25.06.2020",
+        "LastValue": 1.1217,
+        "OpeningValue": 1.1251,
+        "Max": 1.1261,
+        "Min": 1.119
+    },
+    {
+        "id": 95,
+        "Date": "26.06.2020",
+        "LastValue": 1.1217,
+        "OpeningValue": 1.1218,
+        "Max": 1.1241,
+        "Min": 1.1194
+    },
+    {
+        "id": 96,
+        "Date": "29.06.2020",
+        "LastValue": 1.124,
+        "OpeningValue": 1.1227,
+        "Max": 1.1289,
+        "Min": 1.1216
+    },
+    {
+        "id": 97,
+        "Date": "30.06.2020",
+        "LastValue": 1.1231,
+        "OpeningValue": 1.1242,
+        "Max": 1.1263,
+        "Min": 1.1191
+    },
+    {
+        "id": 98,
+        "Date": "01.07.2020",
+        "LastValue": 1.125,
+        "OpeningValue": 1.1233,
+        "Max": 1.1276,
+        "Min": 1.1185
+    },
+    {
+        "id": 99,
+        "Date": "02.07.2020",
+        "LastValue": 1.1238,
+        "OpeningValue": 1.1252,
+        "Max": 1.1303,
+        "Min": 1.1222
+    },
+    {
+        "id": 100,
+        "Date": "03.07.2020",
+        "LastValue": 1.1248,
+        "OpeningValue": 1.1239,
+        "Max": 1.1254,
+        "Min": 1.1219
+    },
+    {
+        "id": 101,
+        "Date": "06.07.2020",
+        "LastValue": 1.1308,
+        "OpeningValue": 1.1242,
+        "Max": 1.1346,
+        "Min": 1.124
+    },
+    {
+        "id": 102,
+        "Date": "07.07.2020",
+        "LastValue": 1.127,
+        "OpeningValue": 1.1308,
+        "Max": 1.1334,
+        "Min": 1.1258
+    },
+    {
+        "id": 103,
+        "Date": "08.07.2020",
+        "LastValue": 1.1329,
+        "OpeningValue": 1.1273,
+        "Max": 1.1352,
+        "Min": 1.1262
+    },
+    {
+        "id": 104,
+        "Date": "09.07.2020",
+        "LastValue": 1.1281,
+        "OpeningValue": 1.1329,
+        "Max": 1.1372,
+        "Min": 1.1279
+    },
+    {
+        "id": 105,
+        "Date": "10.07.2020",
+        "LastValue": 1.1298,
+        "OpeningValue": 1.1285,
+        "Max": 1.1326,
+        "Min": 1.1255
+    },
+    {
+        "id": 106,
+        "Date": "13.07.2020",
+        "LastValue": 1.134,
+        "OpeningValue": 1.13,
+        "Max": 1.1375,
+        "Min": 1.1297
+    },
+    {
+        "id": 107,
+        "Date": "14.07.2020",
+        "LastValue": 1.1396,
+        "OpeningValue": 1.1343,
+        "Max": 1.1409,
+        "Min": 1.1324
+    },
+    {
+        "id": 108,
+        "Date": "15.07.2020",
+        "LastValue": 1.141,
+        "OpeningValue": 1.14,
+        "Max": 1.1452,
+        "Min": 1.1391
+    },
+    {
+        "id": 109,
+        "Date": "16.07.2020",
+        "LastValue": 1.1383,
+        "OpeningValue": 1.1411,
+        "Max": 1.1443,
+        "Min": 1.137
+    },
+    {
+        "id": 110,
+        "Date": "17.07.2020",
+        "LastValue": 1.1426,
+        "OpeningValue": 1.1384,
+        "Max": 1.1444,
+        "Min": 1.1377
+    },
+    {
+        "id": 111,
+        "Date": "20.07.2020",
+        "LastValue": 1.1444,
+        "OpeningValue": 1.141,
+        "Max": 1.1468,
+        "Min": 1.1401
+    },
+    {
+        "id": 112,
+        "Date": "21.07.2020",
+        "LastValue": 1.1526,
+        "OpeningValue": 1.1447,
+        "Max": 1.154,
+        "Min": 1.1422
+    },
+    {
+        "id": 113,
+        "Date": "22.07.2020",
+        "LastValue": 1.1568,
+        "OpeningValue": 1.1528,
+        "Max": 1.1602,
+        "Min": 1.1507
+    },
+    {
+        "id": 114,
+        "Date": "23.07.2020",
+        "LastValue": 1.1594,
+        "OpeningValue": 1.1575,
+        "Max": 1.1628,
+        "Min": 1.1539
+    },
+    {
+        "id": 115,
+        "Date": "24.07.2020",
+        "LastValue": 1.1654,
+        "OpeningValue": 1.1597,
+        "Max": 1.1659,
+        "Min": 1.158
+    },
+    {
+        "id": 116,
+        "Date": "27.07.2020",
+        "LastValue": 1.1751,
+        "OpeningValue": 1.1646,
+        "Max": 1.1782,
+        "Min": 1.1637
+    },
+    {
+        "id": 117,
+        "Date": "28.07.2020",
+        "LastValue": 1.1714,
+        "OpeningValue": 1.1753,
+        "Max": 1.1774,
+        "Min": 1.1698
+    },
+    {
+        "id": 118,
+        "Date": "29.07.2020",
+        "LastValue": 1.179,
+        "OpeningValue": 1.1718,
+        "Max": 1.1807,
+        "Min": 1.1714
+    },
+    {
+        "id": 119,
+        "Date": "30.07.2020",
+        "LastValue": 1.1846,
+        "OpeningValue": 1.1788,
+        "Max": 1.1849,
+        "Min": 1.1731
+    },
+    {
+        "id": 120,
+        "Date": "31.07.2020",
+        "LastValue": 1.1774,
+        "OpeningValue": 1.1846,
+        "Max": 1.191,
+        "Min": 1.176
+    },
+    {
+        "id": 121,
+        "Date": "03.08.2020",
+        "LastValue": 1.1761,
+        "OpeningValue": 1.1783,
+        "Max": 1.1797,
+        "Min": 1.1696
+    },
+    {
+        "id": 122,
+        "Date": "04.08.2020",
+        "LastValue": 1.18,
+        "OpeningValue": 1.1765,
+        "Max": 1.1807,
+        "Min": 1.172
+    },
+    {
+        "id": 123,
+        "Date": "05.08.2020",
+        "LastValue": 1.1861,
+        "OpeningValue": 1.1802,
+        "Max": 1.1906,
+        "Min": 1.1793
+    },
+    {
+        "id": 124,
+        "Date": "06.08.2020",
+        "LastValue": 1.1875,
+        "OpeningValue": 1.1863,
+        "Max": 1.1917,
+        "Min": 1.1818
+    },
+    {
+        "id": 125,
+        "Date": "07.08.2020",
+        "LastValue": 1.1786,
+        "OpeningValue": 1.1877,
+        "Max": 1.1884,
+        "Min": 1.1755
+    },
+    {
+        "id": 126,
+        "Date": "10.08.2020",
+        "LastValue": 1.1736,
+        "OpeningValue": 1.1788,
+        "Max": 1.1803,
+        "Min": 1.1736
+    },
+    {
+        "id": 127,
+        "Date": "11.08.2020",
+        "LastValue": 1.1739,
+        "OpeningValue": 1.1738,
+        "Max": 1.1808,
+        "Min": 1.1722
+    },
+    {
+        "id": 128,
+        "Date": "12.08.2020",
+        "LastValue": 1.1782,
+        "OpeningValue": 1.174,
+        "Max": 1.1816,
+        "Min": 1.171
+    },
+    {
+        "id": 129,
+        "Date": "13.08.2020",
+        "LastValue": 1.1812,
+        "OpeningValue": 1.1786,
+        "Max": 1.1865,
+        "Min": 1.1781
+    },
+    {
+        "id": 130,
+        "Date": "14.08.2020",
+        "LastValue": 1.1841,
+        "OpeningValue": 1.1815,
+        "Max": 1.1852,
+        "Min": 1.1782
+    },
+    {
+        "id": 131,
+        "Date": "17.08.2020",
+        "LastValue": 1.1869,
+        "OpeningValue": 1.184,
+        "Max": 1.1882,
+        "Min": 1.1829
+    },
+    {
+        "id": 132,
+        "Date": "18.08.2020",
+        "LastValue": 1.1929,
+        "OpeningValue": 1.187,
+        "Max": 1.1967,
+        "Min": 1.1865
+    },
+    {
+        "id": 133,
+        "Date": "19.08.2020",
+        "LastValue": 1.1836,
+        "OpeningValue": 1.1931,
+        "Max": 1.1954,
+        "Min": 1.183
+    },
+    {
+        "id": 134,
+        "Date": "20.08.2020",
+        "LastValue": 1.1859,
+        "OpeningValue": 1.1839,
+        "Max": 1.1869,
+        "Min": 1.1802
+    },
+    {
+        "id": 135,
+        "Date": "21.08.2020",
+        "LastValue": 1.1795,
+        "OpeningValue": 1.186,
+        "Max": 1.1883,
+        "Min": 1.1754
+    },
+    {
+        "id": 136,
+        "Date": "24.08.2020",
+        "LastValue": 1.1787,
+        "OpeningValue": 1.1787,
+        "Max": 1.1851,
+        "Min": 1.1783
+    },
+    {
+        "id": 137,
+        "Date": "25.08.2020",
+        "LastValue": 1.1833,
+        "OpeningValue": 1.1793,
+        "Max": 1.1845,
+        "Min": 1.1783
+    },
+    {
+        "id": 138,
+        "Date": "26.08.2020",
+        "LastValue": 1.1829,
+        "OpeningValue": 1.1834,
+        "Max": 1.1841,
+        "Min": 1.1772
+    },
+    {
+        "id": 139,
+        "Date": "27.08.2020",
+        "LastValue": 1.1821,
+        "OpeningValue": 1.1831,
+        "Max": 1.1902,
+        "Min": 1.1762
+    },
+    {
+        "id": 140,
+        "Date": "28.08.2020",
+        "LastValue": 1.1903,
+        "OpeningValue": 1.1822,
+        "Max": 1.192,
+        "Min": 1.181
+    },
+    {
+        "id": 141,
+        "Date": "31.08.2020",
+        "LastValue": 1.1936,
+        "OpeningValue": 1.1899,
+        "Max": 1.1967,
+        "Min": 1.1883
+    },
+    {
+        "id": 142,
+        "Date": "01.09.2020",
+        "LastValue": 1.191,
+        "OpeningValue": 1.1936,
+        "Max": 1.2012,
+        "Min": 1.1901
+    },
+    {
+        "id": 143,
+        "Date": "02.09.2020",
+        "LastValue": 1.1853,
+        "OpeningValue": 1.1911,
+        "Max": 1.1931,
+        "Min": 1.1822
+    },
+    {
+        "id": 144,
+        "Date": "03.09.2020",
+        "LastValue": 1.1849,
+        "OpeningValue": 1.1852,
+        "Max": 1.1866,
+        "Min": 1.1789
+    },
+    {
+        "id": 145,
+        "Date": "04.09.2020",
+        "LastValue": 1.1838,
+        "OpeningValue": 1.185,
+        "Max": 1.1866,
+        "Min": 1.1781
+    },
+    {
+        "id": 146,
+        "Date": "07.09.2020",
+        "LastValue": 1.1817,
+        "OpeningValue": 1.1833,
+        "Max": 1.1849,
+        "Min": 1.1811
+    },
+    {
+        "id": 147,
+        "Date": "08.09.2020",
+        "LastValue": 1.1779,
+        "OpeningValue": 1.1817,
+        "Max": 1.1829,
+        "Min": 1.1765
+    },
+    {
+        "id": 148,
+        "Date": "09.09.2020",
+        "LastValue": 1.1802,
+        "OpeningValue": 1.1777,
+        "Max": 1.1834,
+        "Min": 1.1753
+    },
+    {
+        "id": 149,
+        "Date": "10.09.2020",
+        "LastValue": 1.1813,
+        "OpeningValue": 1.1801,
+        "Max": 1.1918,
+        "Min": 1.18
+    },
+    {
+        "id": 150,
+        "Date": "11.09.2020",
+        "LastValue": 1.1845,
+        "OpeningValue": 1.1814,
+        "Max": 1.1875,
+        "Min": 1.1812
+    },
+    {
+        "id": 151,
+        "Date": "14.09.2020",
+        "LastValue": 1.1868,
+        "OpeningValue": 1.184,
+        "Max": 1.1889,
+        "Min": 1.183
+    },
+    {
+        "id": 152,
+        "Date": "15.09.2020",
+        "LastValue": 1.1845,
+        "OpeningValue": 1.1865,
+        "Max": 1.1901,
+        "Min": 1.1839
+    },
+    {
+        "id": 153,
+        "Date": "16.09.2020",
+        "LastValue": 1.1814,
+        "OpeningValue": 1.185,
+        "Max": 1.1883,
+        "Min": 1.1787
+    },
+    {
+        "id": 154,
+        "Date": "17.09.2020",
+        "LastValue": 1.1847,
+        "OpeningValue": 1.1816,
+        "Max": 1.1854,
+        "Min": 1.1737
+    },
+    {
+        "id": 155,
+        "Date": "18.09.2020",
+        "LastValue": 1.1837,
+        "OpeningValue": 1.1848,
+        "Max": 1.1871,
+        "Min": 1.1826
+    },
+    {
+        "id": 156,
+        "Date": "21.09.2020",
+        "LastValue": 1.1769,
+        "OpeningValue": 1.1848,
+        "Max": 1.1873,
+        "Min": 1.1731
+    },
+    {
+        "id": 157,
+        "Date": "22.09.2020",
+        "LastValue": 1.1706,
+        "OpeningValue": 1.177,
+        "Max": 1.1774,
+        "Min": 1.1691
+    },
+    {
+        "id": 158,
+        "Date": "23.09.2020",
+        "LastValue": 1.1659,
+        "OpeningValue": 1.1708,
+        "Max": 1.1719,
+        "Min": 1.1651
+    },
+    {
+        "id": 159,
+        "Date": "24.09.2020",
+        "LastValue": 1.1672,
+        "OpeningValue": 1.166,
+        "Max": 1.1688,
+        "Min": 1.1626
+    },
+    {
+        "id": 160,
+        "Date": "25.09.2020",
+        "LastValue": 1.163,
+        "OpeningValue": 1.1671,
+        "Max": 1.1686,
+        "Min": 1.1612
+    },
+    {
+        "id": 161,
+        "Date": "28.09.2020",
+        "LastValue": 1.1664,
+        "OpeningValue": 1.1638,
+        "Max": 1.1679,
+        "Min": 1.1615
+    },
+    {
+        "id": 162,
+        "Date": "29.09.2020",
+        "LastValue": 1.1742,
+        "OpeningValue": 1.1666,
+        "Max": 1.1746,
+        "Min": 1.166
+    },
+    {
+        "id": 163,
+        "Date": "30.09.2020",
+        "LastValue": 1.1718,
+        "OpeningValue": 1.1743,
+        "Max": 1.1756,
+        "Min": 1.1684
+    },
+    {
+        "id": 164,
+        "Date": "01.10.2020",
+        "LastValue": 1.1747,
+        "OpeningValue": 1.1719,
+        "Max": 1.177,
+        "Min": 1.1717
+    },
+    {
+        "id": 165,
+        "Date": "02.10.2020",
+        "LastValue": 1.1713,
+        "OpeningValue": 1.1748,
+        "Max": 1.1751,
+        "Min": 1.1695
+    },
+    {
+        "id": 166,
+        "Date": "05.10.2020",
+        "LastValue": 1.1781,
+        "OpeningValue": 1.1716,
+        "Max": 1.1798,
+        "Min": 1.1707
+    },
+    {
+        "id": 167,
+        "Date": "06.10.2020",
+        "LastValue": 1.1734,
+        "OpeningValue": 1.1782,
+        "Max": 1.1809,
+        "Min": 1.1731
+    },
+    {
+        "id": 168,
+        "Date": "07.10.2020",
+        "LastValue": 1.176,
+        "OpeningValue": 1.1735,
+        "Max": 1.1783,
+        "Min": 1.1724
+    },
+    {
+        "id": 169,
+        "Date": "08.10.2020",
+        "LastValue": 1.1758,
+        "OpeningValue": 1.1762,
+        "Max": 1.1782,
+        "Min": 1.1732
+    },
+    {
+        "id": 170,
+        "Date": "09.10.2020",
+        "LastValue": 1.1824,
+        "OpeningValue": 1.1759,
+        "Max": 1.1832,
+        "Min": 1.1753
+    },
+    {
+        "id": 171,
+        "Date": "12.10.2020",
+        "LastValue": 1.1813,
+        "OpeningValue": 1.1819,
+        "Max": 1.1827,
+        "Min": 1.1786
+    },
+    {
+        "id": 172,
+        "Date": "13.10.2020",
+        "LastValue": 1.1744,
+        "OpeningValue": 1.1813,
+        "Max": 1.1817,
+        "Min": 1.1731
+    },
+    {
+        "id": 173,
+        "Date": "14.10.2020",
+        "LastValue": 1.1746,
+        "OpeningValue": 1.1746,
+        "Max": 1.1772,
+        "Min": 1.1719
+    },
+    {
+        "id": 174,
+        "Date": "15.10.2020",
+        "LastValue": 1.1706,
+        "OpeningValue": 1.1747,
+        "Max": 1.176,
+        "Min": 1.1688
+    },
+    {
+        "id": 175,
+        "Date": "16.10.2020",
+        "LastValue": 1.1718,
+        "OpeningValue": 1.1708,
+        "Max": 1.1746,
+        "Min": 1.1694
+    },
+    {
+        "id": 176,
+        "Date": "19.10.2020",
+        "LastValue": 1.1766,
+        "OpeningValue": 1.1722,
+        "Max": 1.1795,
+        "Min": 1.1703
+    },
+    {
+        "id": 177,
+        "Date": "20.10.2020",
+        "LastValue": 1.1821,
+        "OpeningValue": 1.1769,
+        "Max": 1.1841,
+        "Min": 1.176
+    },
+    {
+        "id": 178,
+        "Date": "21.10.2020",
+        "LastValue": 1.1861,
+        "OpeningValue": 1.1822,
+        "Max": 1.1882,
+        "Min": 1.1821
+    },
+    {
+        "id": 179,
+        "Date": "22.10.2020",
+        "LastValue": 1.1816,
+        "OpeningValue": 1.1862,
+        "Max": 1.1868,
+        "Min": 1.1811
+    },
+    {
+        "id": 180,
+        "Date": "23.10.2020",
+        "LastValue": 1.1859,
+        "OpeningValue": 1.1819,
+        "Max": 1.1866,
+        "Min": 1.1787
+    },
+    {
+        "id": 181,
+        "Date": "26.10.2020",
+        "LastValue": 1.1808,
+        "OpeningValue": 1.1858,
+        "Max": 1.1861,
+        "Min": 1.1803
+    },
+    {
+        "id": 182,
+        "Date": "27.10.2020",
+        "LastValue": 1.1795,
+        "OpeningValue": 1.181,
+        "Max": 1.1839,
+        "Min": 1.1793
+    },
+    {
+        "id": 183,
+        "Date": "28.10.2020",
+        "LastValue": 1.1744,
+        "OpeningValue": 1.1796,
+        "Max": 1.1798,
+        "Min": 1.1717
+    },
+    {
+        "id": 184,
+        "Date": "29.10.2020",
+        "LastValue": 1.1674,
+        "OpeningValue": 1.1746,
+        "Max": 1.176,
+        "Min": 1.165
+    },
+    {
+        "id": 185,
+        "Date": "30.10.2020",
+        "LastValue": 1.1647,
+        "OpeningValue": 1.1674,
+        "Max": 1.1705,
+        "Min": 1.1639
+    },
+    {
+        "id": 186,
+        "Date": "02.11.2020",
+        "LastValue": 1.164,
+        "OpeningValue": 1.1658,
+        "Max": 1.1658,
+        "Min": 1.1622
+    },
+    {
+        "id": 187,
+        "Date": "03.11.2020",
+        "LastValue": 1.1711,
+        "OpeningValue": 1.164,
+        "Max": 1.174,
+        "Min": 1.1633
+    },
+    {
+        "id": 188,
+        "Date": "04.11.2020",
+        "LastValue": 1.1722,
+        "OpeningValue": 1.1715,
+        "Max": 1.177,
+        "Min": 1.1603
+    },
+    {
+        "id": 189,
+        "Date": "05.11.2020",
+        "LastValue": 1.1821,
+        "OpeningValue": 1.1725,
+        "Max": 1.1861,
+        "Min": 1.171
+    },
+    {
+        "id": 190,
+        "Date": "06.11.2020",
+        "LastValue": 1.1872,
+        "OpeningValue": 1.1826,
+        "Max": 1.1891,
+        "Min": 1.1795
+    },
+    {
+        "id": 191,
+        "Date": "09.11.2020",
+        "LastValue": 1.1813,
+        "OpeningValue": 1.1882,
+        "Max": 1.192,
+        "Min": 1.1795
+    },
+    {
+        "id": 192,
+        "Date": "10.11.2020",
+        "LastValue": 1.1814,
+        "OpeningValue": 1.1812,
+        "Max": 1.1844,
+        "Min": 1.178
+    },
+    {
+        "id": 193,
+        "Date": "11.11.2020",
+        "LastValue": 1.1777,
+        "OpeningValue": 1.181,
+        "Max": 1.1834,
+        "Min": 1.1745
+    },
+    {
+        "id": 194,
+        "Date": "12.11.2020",
+        "LastValue": 1.1804,
+        "OpeningValue": 1.1777,
+        "Max": 1.1824,
+        "Min": 1.1758
+    },
+    {
+        "id": 195,
+        "Date": "13.11.2020",
+        "LastValue": 1.1832,
+        "OpeningValue": 1.1805,
+        "Max": 1.1838,
+        "Min": 1.1798
+    },
+    {
+        "id": 196,
+        "Date": "16.11.2020",
+        "LastValue": 1.1853,
+        "OpeningValue": 1.1829,
+        "Max": 1.1869,
+        "Min": 1.1813
+    },
+    {
+        "id": 197,
+        "Date": "17.11.2020",
+        "LastValue": 1.1861,
+        "OpeningValue": 1.1852,
+        "Max": 1.1895,
+        "Min": 1.1842
+    },
+    {
+        "id": 198,
+        "Date": "18.11.2020",
+        "LastValue": 1.1852,
+        "OpeningValue": 1.1863,
+        "Max": 1.1892,
+        "Min": 1.1848
+    },
+    {
+        "id": 199,
+        "Date": "19.11.2020",
+        "LastValue": 1.1873,
+        "OpeningValue": 1.1853,
+        "Max": 1.1883,
+        "Min": 1.1816
+    },
+    {
+        "id": 200,
+        "Date": "20.11.2020",
+        "LastValue": 1.1853,
+        "OpeningValue": 1.1875,
+        "Max": 1.1891,
+        "Min": 1.1849
+    },
+    {
+        "id": 201,
+        "Date": "23.11.2020",
+        "LastValue": 1.184,
+        "OpeningValue": 1.1853,
+        "Max": 1.1906,
+        "Min": 1.18
+    },
+    {
+        "id": 202,
+        "Date": "24.11.2020",
+        "LastValue": 1.1888,
+        "OpeningValue": 1.1842,
+        "Max": 1.1897,
+        "Min": 1.1837
+    },
+    {
+        "id": 203,
+        "Date": "25.11.2020",
+        "LastValue": 1.1913,
+        "OpeningValue": 1.1891,
+        "Max": 1.1931,
+        "Min": 1.1882
+    },
+    {
+        "id": 204,
+        "Date": "26.11.2020",
+        "LastValue": 1.1913,
+        "OpeningValue": 1.1916,
+        "Max": 1.1941,
+        "Min": 1.1884
+    },
+    {
+        "id": 205,
+        "Date": "27.11.2020",
+        "LastValue": 1.1962,
+        "OpeningValue": 1.1914,
+        "Max": 1.1965,
+        "Min": 1.1907
+    },
+    {
+        "id": 206,
+        "Date": "30.11.2020",
+        "LastValue": 1.1928,
+        "OpeningValue": 1.1957,
+        "Max": 1.2004,
+        "Min": 1.1924
+    },
+    {
+        "id": 207,
+        "Date": "01.12.2020",
+        "LastValue": 1.207,
+        "OpeningValue": 1.1928,
+        "Max": 1.2077,
+        "Min": 1.1926
+    },
+    {
+        "id": 208,
+        "Date": "02.12.2020",
+        "LastValue": 1.2115,
+        "OpeningValue": 1.207,
+        "Max": 1.2119,
+        "Min": 1.204
+    },
+    {
+        "id": 209,
+        "Date": "03.12.2020",
+        "LastValue": 1.214,
+        "OpeningValue": 1.2115,
+        "Max": 1.2177,
+        "Min": 1.21
+    },
+    {
+        "id": 210,
+        "Date": "04.12.2020",
+        "LastValue": 1.212,
+        "OpeningValue": 1.2142,
+        "Max": 1.2178,
+        "Min": 1.211
+    },
+    {
+        "id": 211,
+        "Date": "07.12.2020",
+        "LastValue": 1.2108,
+        "OpeningValue": 1.2128,
+        "Max": 1.2167,
+        "Min": 1.2078
+    },
+    {
+        "id": 212,
+        "Date": "08.12.2020",
+        "LastValue": 1.2101,
+        "OpeningValue": 1.2109,
+        "Max": 1.2134,
+        "Min": 1.2095
+    },
+    {
+        "id": 213,
+        "Date": "09.12.2020",
+        "LastValue": 1.2081,
+        "OpeningValue": 1.2103,
+        "Max": 1.2148,
+        "Min": 1.2059
+    },
+    {
+        "id": 214,
+        "Date": "10.12.2020",
+        "LastValue": 1.2136,
+        "OpeningValue": 1.2083,
+        "Max": 1.216,
+        "Min": 1.2075
+    },
+    {
+        "id": 215,
+        "Date": "11.12.2020",
+        "LastValue": 1.2111,
+        "OpeningValue": 1.2137,
+        "Max": 1.2163,
+        "Min": 1.2105
+    },
+    {
+        "id": 216,
+        "Date": "14.12.2020",
+        "LastValue": 1.2143,
+        "OpeningValue": 1.2131,
+        "Max": 1.2177,
+        "Min": 1.2115
+    },
+    {
+        "id": 217,
+        "Date": "15.12.2020",
+        "LastValue": 1.2151,
+        "OpeningValue": 1.2143,
+        "Max": 1.217,
+        "Min": 1.2121
+    },
+    {
+        "id": 218,
+        "Date": "16.12.2020",
+        "LastValue": 1.2197,
+        "OpeningValue": 1.2152,
+        "Max": 1.2213,
+        "Min": 1.2125
+    },
+    {
+        "id": 219,
+        "Date": "17.12.2020",
+        "LastValue": 1.2266,
+        "OpeningValue": 1.2199,
+        "Max": 1.2274,
+        "Min": 1.2191
+    },
+    {
+        "id": 220,
+        "Date": "18.12.2020",
+        "LastValue": 1.2255,
+        "OpeningValue": 1.2268,
+        "Max": 1.2273,
+        "Min": 1.2225
+    },
+    {
+        "id": 221,
+        "Date": "21.12.2020",
+        "LastValue": 1.2242,
+        "OpeningValue": 1.2242,
+        "Max": 1.2254,
+        "Min": 1.2129
+    },
+    {
+        "id": 222,
+        "Date": "22.12.2020",
+        "LastValue": 1.2161,
+        "OpeningValue": 1.2244,
+        "Max": 1.2257,
+        "Min": 1.2151
+    },
+    {
+        "id": 223,
+        "Date": "23.12.2020",
+        "LastValue": 1.2185,
+        "OpeningValue": 1.2163,
+        "Max": 1.2221,
+        "Min": 1.2154
+    },
+    {
+        "id": 224,
+        "Date": "24.12.2020",
+        "LastValue": 1.2186,
+        "OpeningValue": 1.2188,
+        "Max": 1.2217,
+        "Min": 1.2177
+    },
+    {
+        "id": 225,
+        "Date": "25.12.2020",
+        "LastValue": 1.2204,
+        "OpeningValue": 1.2186,
+        "Max": 1.2212,
+        "Min": 1.2165
+    },
+    {
+        "id": 226,
+        "Date": "28.12.2020",
+        "LastValue": 1.2214,
+        "OpeningValue": 1.2202,
+        "Max": 1.2251,
+        "Min": 1.2181
+    },
+    {
+        "id": 227,
+        "Date": "29.12.2020",
+        "LastValue": 1.2247,
+        "OpeningValue": 1.2217,
+        "Max": 1.2276,
+        "Min": 1.2207
+    },
+    {
+        "id": 228,
+        "Date": "30.12.2020",
+        "LastValue": 1.2295,
+        "OpeningValue": 1.2248,
+        "Max": 1.2311,
+        "Min": 1.2246
+    },
+    {
+        "id": 229,
+        "Date": "31.12.2020",
+        "LastValue": 1.2213,
+        "OpeningValue": 1.2298,
+        "Max": 1.231,
+        "Min": 1.2209
+    },
+    {
+        "id": 230,
+        "Date": "01.01.2021",
+        "LastValue": 1.2212,
+        "OpeningValue": 1.2216,
+        "Max": 1.2217,
+        "Min": 1.221
+    },
+    {
+        "id": 231,
+        "Date": "04.01.2021",
+        "LastValue": 1.2248,
+        "OpeningValue": 1.2231,
+        "Max": 1.231,
+        "Min": 1.2223
+    },
+    {
+        "id": 232,
+        "Date": "05.01.2021",
+        "LastValue": 1.2294,
+        "OpeningValue": 1.2247,
+        "Max": 1.2307,
+        "Min": 1.2246
+    },
+    {
+        "id": 233,
+        "Date": "06.01.2021",
+        "LastValue": 1.2325,
+        "OpeningValue": 1.2296,
+        "Max": 1.235,
+        "Min": 1.2265
+    },
+    {
+        "id": 234,
+        "Date": "07.01.2021",
+        "LastValue": 1.227,
+        "OpeningValue": 1.2327,
+        "Max": 1.2346,
+        "Min": 1.2244
+    },
+    {
+        "id": 235,
+        "Date": "08.01.2021",
+        "LastValue": 1.2218,
+        "OpeningValue": 1.2273,
+        "Max": 1.2284,
+        "Min": 1.2191
+    },
+    {
+        "id": 236,
+        "Date": "11.01.2021",
+        "LastValue": 1.2149,
+        "OpeningValue": 1.2217,
+        "Max": 1.2227,
+        "Min": 1.2132
+    },
+    {
+        "id": 237,
+        "Date": "12.01.2021",
+        "LastValue": 1.2207,
+        "OpeningValue": 1.2152,
+        "Max": 1.2211,
+        "Min": 1.2136
+    },
+    {
+        "id": 238,
+        "Date": "13.01.2021",
+        "LastValue": 1.2157,
+        "OpeningValue": 1.2208,
+        "Max": 1.2224,
+        "Min": 1.214
+    },
+    {
+        "id": 239,
+        "Date": "14.01.2021",
+        "LastValue": 1.2156,
+        "OpeningValue": 1.2157,
+        "Max": 1.2179,
+        "Min": 1.2111
+    },
+    {
+        "id": 240,
+        "Date": "15.01.2021",
+        "LastValue": 1.2078,
+        "OpeningValue": 1.2155,
+        "Max": 1.2163,
+        "Min": 1.2074
+    },
+    {
+        "id": 241,
+        "Date": "18.01.2021",
+        "LastValue": 1.2076,
+        "OpeningValue": 1.2085,
+        "Max": 1.2091,
+        "Min": 1.2054
+    },
+    {
+        "id": 242,
+        "Date": "19.01.2021",
+        "LastValue": 1.2128,
+        "OpeningValue": 1.2078,
+        "Max": 1.2146,
+        "Min": 1.2074
+    },
+    {
+        "id": 243,
+        "Date": "20.01.2021",
+        "LastValue": 1.2104,
+        "OpeningValue": 1.2127,
+        "Max": 1.2158,
+        "Min": 1.2076
+    },
+    {
+        "id": 244,
+        "Date": "21.01.2021",
+        "LastValue": 1.2162,
+        "OpeningValue": 1.2106,
+        "Max": 1.2175,
+        "Min": 1.2103
+    },
+    {
+        "id": 245,
+        "Date": "22.01.2021",
+        "LastValue": 1.2167,
+        "OpeningValue": 1.2164,
+        "Max": 1.2191,
+        "Min": 1.2151
+    },
+    {
+        "id": 246,
+        "Date": "25.01.2021",
+        "LastValue": 1.2137,
+        "OpeningValue": 1.2168,
+        "Max": 1.2184,
+        "Min": 1.2115
+    },
+    {
+        "id": 247,
+        "Date": "26.01.2021",
+        "LastValue": 1.216,
+        "OpeningValue": 1.2138,
+        "Max": 1.2177,
+        "Min": 1.2107
+    },
+    {
+        "id": 248,
+        "Date": "27.01.2021",
+        "LastValue": 1.2108,
+        "OpeningValue": 1.216,
+        "Max": 1.217,
+        "Min": 1.2057
+    },
+    {
+        "id": 249,
+        "Date": "28.01.2021",
+        "LastValue": 1.2121,
+        "OpeningValue": 1.2109,
+        "Max": 1.2142,
+        "Min": 1.2079
+    },
+    {
+        "id": 250,
+        "Date": "29.01.2021",
+        "LastValue": 1.2136,
+        "OpeningValue": 1.2121,
+        "Max": 1.2156,
+        "Min": 1.2093
+    },
+    {
+        "id": 251,
+        "Date": "01.02.2021",
+        "LastValue": 1.2059,
+        "OpeningValue": 1.214,
+        "Max": 1.2146,
+        "Min": 1.2054
+    },
+    {
+        "id": 252,
+        "Date": "02.02.2021",
+        "LastValue": 1.2042,
+        "OpeningValue": 1.2059,
+        "Max": 1.2089,
+        "Min": 1.2011
+    },
+    {
+        "id": 253,
+        "Date": "03.02.2021",
+        "LastValue": 1.2034,
+        "OpeningValue": 1.2044,
+        "Max": 1.205,
+        "Min": 1.2003
+    },
+    {
+        "id": 254,
+        "Date": "04.02.2021",
+        "LastValue": 1.1962,
+        "OpeningValue": 1.2033,
+        "Max": 1.2043,
+        "Min": 1.1957
+    },
+    {
+        "id": 255,
+        "Date": "05.02.2021",
+        "LastValue": 1.2042,
+        "OpeningValue": 1.1964,
+        "Max": 1.205,
+        "Min": 1.1952
+    },
+    {
+        "id": 256,
+        "Date": "08.02.2021",
+        "LastValue": 1.2048,
+        "OpeningValue": 1.2042,
+        "Max": 1.2067,
+        "Min": 1.2019
+    },
+    {
+        "id": 257,
+        "Date": "09.02.2021",
+        "LastValue": 1.2117,
+        "OpeningValue": 1.2048,
+        "Max": 1.2122,
+        "Min": 1.2045
+    },
+    {
+        "id": 258,
+        "Date": "10.02.2021",
+        "LastValue": 1.2116,
+        "OpeningValue": 1.2119,
+        "Max": 1.2145,
+        "Min": 1.2108
+    },
+    {
+        "id": 259,
+        "Date": "11.02.2021",
+        "LastValue": 1.2128,
+        "OpeningValue": 1.2118,
+        "Max": 1.215,
+        "Min": 1.2112
+    },
+    {
+        "id": 260,
+        "Date": "12.02.2021",
+        "LastValue": 1.2118,
+        "OpeningValue": 1.213,
+        "Max": 1.2135,
+        "Min": 1.2081
+    },
+    {
+        "id": 261,
+        "Date": "15.02.2021",
+        "LastValue": 1.2127,
+        "OpeningValue": 1.2123,
+        "Max": 1.2146,
+        "Min": 1.2116
+    },
+    {
+        "id": 262,
+        "Date": "16.02.2021",
+        "LastValue": 1.2104,
+        "OpeningValue": 1.213,
+        "Max": 1.217,
+        "Min": 1.2095
+    },
+    {
+        "id": 263,
+        "Date": "17.02.2021",
+        "LastValue": 1.2036,
+        "OpeningValue": 1.2107,
+        "Max": 1.2111,
+        "Min": 1.2023
+    },
+    {
+        "id": 264,
+        "Date": "18.02.2021",
+        "LastValue": 1.2088,
+        "OpeningValue": 1.2037,
+        "Max": 1.2096,
+        "Min": 1.2035
+    },
+    {
+        "id": 265,
+        "Date": "19.02.2021",
+        "LastValue": 1.2117,
+        "OpeningValue": 1.2091,
+        "Max": 1.2145,
+        "Min": 1.2082
+    },
+    {
+        "id": 266,
+        "Date": "22.02.2021",
+        "LastValue": 1.2154,
+        "OpeningValue": 1.2117,
+        "Max": 1.217,
+        "Min": 1.2091
+    },
+    {
+        "id": 267,
+        "Date": "23.02.2021",
+        "LastValue": 1.2149,
+        "OpeningValue": 1.2155,
+        "Max": 1.2181,
+        "Min": 1.2135
+    },
+    {
+        "id": 268,
+        "Date": "24.02.2021",
+        "LastValue": 1.2164,
+        "OpeningValue": 1.215,
+        "Max": 1.2176,
+        "Min": 1.2109
+    },
+    {
+        "id": 269,
+        "Date": "25.02.2021",
+        "LastValue": 1.2176,
+        "OpeningValue": 1.2163,
+        "Max": 1.2243,
+        "Min": 1.2155
+    },
+    {
+        "id": 270,
+        "Date": "26.02.2021",
+        "LastValue": 1.2074,
+        "OpeningValue": 1.2176,
+        "Max": 1.2185,
+        "Min": 1.2062
+    },
+    {
+        "id": 271,
+        "Date": "01.03.2021",
+        "LastValue": 1.2047,
+        "OpeningValue": 1.2079,
+        "Max": 1.2102,
+        "Min": 1.2027
+    },
+    {
+        "id": 272,
+        "Date": "02.03.2021",
+        "LastValue": 1.2089,
+        "OpeningValue": 1.2049,
+        "Max": 1.2095,
+        "Min": 1.1991
+    },
+    {
+        "id": 273,
+        "Date": "03.03.2021",
+        "LastValue": 1.2062,
+        "OpeningValue": 1.2091,
+        "Max": 1.2113,
+        "Min": 1.2042
+    },
+    {
+        "id": 274,
+        "Date": "04.03.2021",
+        "LastValue": 1.1966,
+        "OpeningValue": 1.2063,
+        "Max": 1.2068,
+        "Min": 1.1961
+    },
+    {
+        "id": 275,
+        "Date": "05.03.2021",
+        "LastValue": 1.1917,
+        "OpeningValue": 1.1968,
+        "Max": 1.1978,
+        "Min": 1.1894
+    },
+    {
+        "id": 276,
+        "Date": "08.03.2021",
+        "LastValue": 1.1843,
+        "OpeningValue": 1.1922,
+        "Max": 1.1933,
+        "Min": 1.1844
+    },
+    {
+        "id": 277,
+        "Date": "09.03.2021",
+        "LastValue": 1.1898,
+        "OpeningValue": 1.1847,
+        "Max": 1.1917,
+        "Min": 1.1835
+    },
+    {
+        "id": 278,
+        "Date": "10.03.2021",
+        "LastValue": 1.1925,
+        "OpeningValue": 1.19,
+        "Max": 1.1931,
+        "Min": 1.1868
+    },
+    {
+        "id": 279,
+        "Date": "11.03.2021",
+        "LastValue": 1.1984,
+        "OpeningValue": 1.1928,
+        "Max": 1.199,
+        "Min": 1.1916
+    },
+    {
+        "id": 280,
+        "Date": "12.03.2021",
+        "LastValue": 1.1952,
+        "OpeningValue": 1.1983,
+        "Max": 1.199,
+        "Min": 1.191
+    },
+    {
+        "id": 281,
+        "Date": "15.03.2021",
+        "LastValue": 1.1928,
+        "OpeningValue": 1.1952,
+        "Max": 1.1968,
+        "Min": 1.1911
+    },
+    {
+        "id": 282,
+        "Date": "16.03.2021",
+        "LastValue": 1.19,
+        "OpeningValue": 1.1929,
+        "Max": 1.1953,
+        "Min": 1.1882
+    },
+    {
+        "id": 283,
+        "Date": "17.03.2021",
+        "LastValue": 1.1978,
+        "OpeningValue": 1.1906,
+        "Max": 1.1986,
+        "Min": 1.1885
+    },
+    {
+        "id": 284,
+        "Date": "18.03.2021",
+        "LastValue": 1.1915,
+        "OpeningValue": 1.1979,
+        "Max": 1.199,
+        "Min": 1.1906
+    },
+    {
+        "id": 285,
+        "Date": "19.03.2021",
+        "LastValue": 1.1903,
+        "OpeningValue": 1.1915,
+        "Max": 1.1939,
+        "Min": 1.1874
+    },
+    {
+        "id": 286,
+        "Date": "22.03.2021",
+        "LastValue": 1.1931,
+        "OpeningValue": 1.1899,
+        "Max": 1.1947,
+        "Min": 1.1871
+    },
+    {
+        "id": 287,
+        "Date": "23.03.2021",
+        "LastValue": 1.1849,
+        "OpeningValue": 1.1935,
+        "Max": 1.1941,
+        "Min": 1.1841
+    },
+    {
+        "id": 288,
+        "Date": "24.03.2021",
+        "LastValue": 1.1812,
+        "OpeningValue": 1.1851,
+        "Max": 1.1854,
+        "Min": 1.1809
+    },
+    {
+        "id": 289,
+        "Date": "25.03.2021",
+        "LastValue": 1.1764,
+        "OpeningValue": 1.1813,
+        "Max": 1.1829,
+        "Min": 1.1761
+    },
+    {
+        "id": 290,
+        "Date": "26.03.2021",
+        "LastValue": 1.1796,
+        "OpeningValue": 1.1763,
+        "Max": 1.1805,
+        "Min": 1.1763
+    },
+    {
+        "id": 291,
+        "Date": "29.03.2021",
+        "LastValue": 1.1762,
+        "OpeningValue": 1.1795,
+        "Max": 1.1797,
+        "Min": 1.176
+    },
+    {
+        "id": 292,
+        "Date": "30.03.2021",
+        "LastValue": 1.1714,
+        "OpeningValue": 1.1764,
+        "Max": 1.1774,
+        "Min": 1.1711
+    },
+    {
+        "id": 293,
+        "Date": "31.03.2021",
+        "LastValue": 1.1728,
+        "OpeningValue": 1.1716,
+        "Max": 1.176,
+        "Min": 1.1703
+    },
+    {
+        "id": 294,
+        "Date": "01.04.2021",
+        "LastValue": 1.1775,
+        "OpeningValue": 1.1731,
+        "Max": 1.1781,
+        "Min": 1.1712
+    },
+    {
+        "id": 295,
+        "Date": "02.04.2021",
+        "LastValue": 1.1762,
+        "OpeningValue": 1.1777,
+        "Max": 1.1788,
+        "Min": 1.1748
+    },
+    {
+        "id": 296,
+        "Date": "05.04.2021",
+        "LastValue": 1.1811,
+        "OpeningValue": 1.1761,
+        "Max": 1.182,
+        "Min": 1.1738
+    },
+    {
+        "id": 297,
+        "Date": "06.04.2021",
+        "LastValue": 1.1875,
+        "OpeningValue": 1.1814,
+        "Max": 1.1878,
+        "Min": 1.1795
+    },
+    {
+        "id": 298,
+        "Date": "07.04.2021",
+        "LastValue": 1.187,
+        "OpeningValue": 1.1875,
+        "Max": 1.1916,
+        "Min": 1.1861
+    },
+    {
+        "id": 299,
+        "Date": "08.04.2021",
+        "LastValue": 1.1912,
+        "OpeningValue": 1.1867,
+        "Max": 1.1928,
+        "Min": 1.1861
+    },
+    {
+        "id": 300,
+        "Date": "09.04.2021",
+        "LastValue": 1.1896,
+        "OpeningValue": 1.1913,
+        "Max": 1.1921,
+        "Min": 1.1867
+    },
+    {
+        "id": 301,
+        "Date": "12.04.2021",
+        "LastValue": 1.1909,
+        "OpeningValue": 1.1891,
+        "Max": 1.192,
+        "Min": 1.187
+    },
+    {
+        "id": 302,
+        "Date": "13.04.2021",
+        "LastValue": 1.1946,
+        "OpeningValue": 1.1911,
+        "Max": 1.1956,
+        "Min": 1.1878
+    },
+    {
+        "id": 303,
+        "Date": "14.04.2021",
+        "LastValue": 1.1978,
+        "OpeningValue": 1.1948,
+        "Max": 1.1988,
+        "Min": 1.1947
+    },
+    {
+        "id": 304,
+        "Date": "15.04.2021",
+        "LastValue": 1.1965,
+        "OpeningValue": 1.198,
+        "Max": 1.1995,
+        "Min": 1.1955
+    },
+    {
+        "id": 305,
+        "Date": "16.04.2021",
+        "LastValue": 1.1983,
+        "OpeningValue": 1.1967,
+        "Max": 1.1996,
+        "Min": 1.195
+    },
+    {
+        "id": 306,
+        "Date": "19.04.2021",
+        "LastValue": 1.2033,
+        "OpeningValue": 1.1984,
+        "Max": 1.2049,
+        "Min": 1.1942
+    },
+    {
+        "id": 307,
+        "Date": "20.04.2021",
+        "LastValue": 1.2033,
+        "OpeningValue": 1.2036,
+        "Max": 1.2081,
+        "Min": 1.2022
+    },
+    {
+        "id": 308,
+        "Date": "21.04.2021",
+        "LastValue": 1.2033,
+        "OpeningValue": 1.2037,
+        "Max": 1.2045,
+        "Min": 1.1998
+    },
+    {
+        "id": 309,
+        "Date": "22.04.2021",
+        "LastValue": 1.2015,
+        "OpeningValue": 1.2035,
+        "Max": 1.207,
+        "Min": 1.1993
+    },
+    {
+        "id": 310,
+        "Date": "23.04.2021",
+        "LastValue": 1.2099,
+        "OpeningValue": 1.2015,
+        "Max": 1.21,
+        "Min": 1.2012
+    },
+    {
+        "id": 311,
+        "Date": "26.04.2021",
+        "LastValue": 1.2083,
+        "OpeningValue": 1.2093,
+        "Max": 1.2118,
+        "Min": 1.2061
+    },
+    {
+        "id": 312,
+        "Date": "27.04.2021",
+        "LastValue": 1.209,
+        "OpeningValue": 1.2086,
+        "Max": 1.2093,
+        "Min": 1.2056
+    },
+    {
+        "id": 313,
+        "Date": "28.04.2021",
+        "LastValue": 1.2123,
+        "OpeningValue": 1.2091,
+        "Max": 1.2135,
+        "Min": 1.2055
+    },
+    {
+        "id": 314,
+        "Date": "29.04.2021",
+        "LastValue": 1.2118,
+        "OpeningValue": 1.2126,
+        "Max": 1.215,
+        "Min": 1.2102
+    },
+    {
+        "id": 315,
+        "Date": "30.04.2021",
+        "LastValue": 1.2018,
+        "OpeningValue": 1.2116,
+        "Max": 1.2127,
+        "Min": 1.2016
+    },
+    {
+        "id": 316,
+        "Date": "03.05.2021",
+        "LastValue": 1.2061,
+        "OpeningValue": 1.2031,
+        "Max": 1.2076,
+        "Min": 1.2012
+    },
+    {
+        "id": 317,
+        "Date": "04.05.2021",
+        "LastValue": 1.2013,
+        "OpeningValue": 1.2064,
+        "Max": 1.2066,
+        "Min": 1.1998
+    },
+    {
+        "id": 318,
+        "Date": "05.05.2021",
+        "LastValue": 1.2005,
+        "OpeningValue": 1.2013,
+        "Max": 1.2027,
+        "Min": 1.1985
+    },
+    {
+        "id": 319,
+        "Date": "06.05.2021",
+        "LastValue": 1.2064,
+        "OpeningValue": 1.2005,
+        "Max": 1.2072,
+        "Min": 1.1992
+    },
+    {
+        "id": 320,
+        "Date": "07.05.2021",
+        "LastValue": 1.2163,
+        "OpeningValue": 1.2066,
+        "Max": 1.2172,
+        "Min": 1.2053
+    },
+    {
+        "id": 321,
+        "Date": "10.05.2021",
+        "LastValue": 1.2129,
+        "OpeningValue": 1.2161,
+        "Max": 1.2178,
+        "Min": 1.2127
+    },
+    {
+        "id": 322,
+        "Date": "11.05.2021",
+        "LastValue": 1.2146,
+        "OpeningValue": 1.2129,
+        "Max": 1.2182,
+        "Min": 1.2122
+    },
+    {
+        "id": 323,
+        "Date": "12.05.2021",
+        "LastValue": 1.2069,
+        "OpeningValue": 1.2148,
+        "Max": 1.2153,
+        "Min": 1.2065
+    },
+    {
+        "id": 324,
+        "Date": "13.05.2021",
+        "LastValue": 1.2078,
+        "OpeningValue": 1.2073,
+        "Max": 1.2108,
+        "Min": 1.205
+    },
+    {
+        "id": 325,
+        "Date": "14.05.2021",
+        "LastValue": 1.214,
+        "OpeningValue": 1.208,
+        "Max": 1.215,
+        "Min": 1.207
+    },
+    {
+        "id": 326,
+        "Date": "17.05.2021",
+        "LastValue": 1.2151,
+        "OpeningValue": 1.214,
+        "Max": 1.217,
+        "Min": 1.2126
+    },
+    {
+        "id": 327,
+        "Date": "18.05.2021",
+        "LastValue": 1.222,
+        "OpeningValue": 1.2153,
+        "Max": 1.2234,
+        "Min": 1.2151
+    },
+    {
+        "id": 328,
+        "Date": "19.05.2021",
+        "LastValue": 1.2172,
+        "OpeningValue": 1.2222,
+        "Max": 1.2246,
+        "Min": 1.216
+    },
+    {
+        "id": 329,
+        "Date": "20.05.2021",
+        "LastValue": 1.2226,
+        "OpeningValue": 1.2171,
+        "Max": 1.223,
+        "Min": 1.2169
+    },
+    {
+        "id": 330,
+        "Date": "21.05.2021",
+        "LastValue": 1.2179,
+        "OpeningValue": 1.2228,
+        "Max": 1.2241,
+        "Min": 1.2161
+    },
+    {
+        "id": 331,
+        "Date": "24.05.2021",
+        "LastValue": 1.2215,
+        "OpeningValue": 1.2178,
+        "Max": 1.223,
+        "Min": 1.2172
+    },
+    {
+        "id": 332,
+        "Date": "25.05.2021",
+        "LastValue": 1.225,
+        "OpeningValue": 1.2217,
+        "Max": 1.2267,
+        "Min": 1.2211
+    },
+    {
+        "id": 333,
+        "Date": "26.05.2021",
+        "LastValue": 1.219,
+        "OpeningValue": 1.2251,
+        "Max": 1.2263,
+        "Min": 1.2182
+    },
+    {
+        "id": 334,
+        "Date": "27.05.2021",
+        "LastValue": 1.2192,
+        "OpeningValue": 1.2192,
+        "Max": 1.2216,
+        "Min": 1.2175
+    },
+    {
+        "id": 335,
+        "Date": "28.05.2021",
+        "LastValue": 1.2189,
+        "OpeningValue": 1.2195,
+        "Max": 1.2205,
+        "Min": 1.2132
+    },
+    {
+        "id": 336,
+        "Date": "31.05.2021",
+        "LastValue": 1.2225,
+        "OpeningValue": 1.2192,
+        "Max": 1.2233,
+        "Min": 1.2183
+    },
+    {
+        "id": 337,
+        "Date": "01.06.2021",
+        "LastValue": 1.2211,
+        "OpeningValue": 1.2227,
+        "Max": 1.2255,
+        "Min": 1.2211
+    },
+    {
+        "id": 338,
+        "Date": "02.06.2021",
+        "LastValue": 1.2209,
+        "OpeningValue": 1.2214,
+        "Max": 1.2227,
+        "Min": 1.2163
+    },
+    {
+        "id": 339,
+        "Date": "03.06.2021",
+        "LastValue": 1.2124,
+        "OpeningValue": 1.221,
+        "Max": 1.2217,
+        "Min": 1.2118
+    },
+    {
+        "id": 340,
+        "Date": "04.06.2021",
+        "LastValue": 1.2165,
+        "OpeningValue": 1.2129,
+        "Max": 1.2186,
+        "Min": 1.2104
+    },
+    {
+        "id": 341,
+        "Date": "07.06.2021",
+        "LastValue": 1.2189,
+        "OpeningValue": 1.2168,
+        "Max": 1.2203,
+        "Min": 1.2145
+    },
+    {
+        "id": 342,
+        "Date": "08.06.2021",
+        "LastValue": 1.2171,
+        "OpeningValue": 1.219,
+        "Max": 1.2196,
+        "Min": 1.2163
+    },
+    {
+        "id": 343,
+        "Date": "09.06.2021",
+        "LastValue": 1.2178,
+        "OpeningValue": 1.2173,
+        "Max": 1.2219,
+        "Min": 1.217
+    },
+    {
+        "id": 344,
+        "Date": "10.06.2021",
+        "LastValue": 1.2169,
+        "OpeningValue": 1.2181,
+        "Max": 1.2195,
+        "Min": 1.2142
+    },
+    {
+        "id": 345,
+        "Date": "11.06.2021",
+        "LastValue": 1.2106,
+        "OpeningValue": 1.217,
+        "Max": 1.2196,
+        "Min": 1.2092
+    },
+    {
+        "id": 346,
+        "Date": "14.06.2021",
+        "LastValue": 1.2118,
+        "OpeningValue": 1.211,
+        "Max": 1.2131,
+        "Min": 1.2093
+    },
+    {
+        "id": 347,
+        "Date": "15.06.2021",
+        "LastValue": 1.2124,
+        "OpeningValue": 1.212,
+        "Max": 1.2149,
+        "Min": 1.21
+    },
+    {
+        "id": 348,
+        "Date": "16.06.2021",
+        "LastValue": 1.1994,
+        "OpeningValue": 1.2127,
+        "Max": 1.2135,
+        "Min": 1.1993
+    },
+    {
+        "id": 349,
+        "Date": "17.06.2021",
+        "LastValue": 1.1906,
+        "OpeningValue": 1.1996,
+        "Max": 1.2007,
+        "Min": 1.1891
+    },
+    {
+        "id": 350,
+        "Date": "18.06.2021",
+        "LastValue": 1.186,
+        "OpeningValue": 1.1908,
+        "Max": 1.1926,
+        "Min": 1.1846
+    },
+    {
+        "id": 351,
+        "Date": "21.06.2021",
+        "LastValue": 1.1915,
+        "OpeningValue": 1.1868,
+        "Max": 1.1922,
+        "Min": 1.1847
+    },
+    {
+        "id": 352,
+        "Date": "22.06.2021",
+        "LastValue": 1.1938,
+        "OpeningValue": 1.1918,
+        "Max": 1.1954,
+        "Min": 1.1881
+    },
+    {
+        "id": 353,
+        "Date": "23.06.2021",
+        "LastValue": 1.1925,
+        "OpeningValue": 1.1939,
+        "Max": 1.197,
+        "Min": 1.1911
+    },
+    {
+        "id": 354,
+        "Date": "24.06.2021",
+        "LastValue": 1.193,
+        "OpeningValue": 1.1927,
+        "Max": 1.1957,
+        "Min": 1.1918
+    },
+    {
+        "id": 355,
+        "Date": "25.06.2021",
+        "LastValue": 1.1933,
+        "OpeningValue": 1.1932,
+        "Max": 1.1976,
+        "Min": 1.1925
+    },
+    {
+        "id": 356,
+        "Date": "28.06.2021",
+        "LastValue": 1.1924,
+        "OpeningValue": 1.1935,
+        "Max": 1.1946,
+        "Min": 1.1902
+    },
+    {
+        "id": 357,
+        "Date": "29.06.2021",
+        "LastValue": 1.1895,
+        "OpeningValue": 1.1926,
+        "Max": 1.1932,
+        "Min": 1.1877
+    },
+    {
+        "id": 358,
+        "Date": "30.06.2021",
+        "LastValue": 1.1855,
+        "OpeningValue": 1.1897,
+        "Max": 1.191,
+        "Min": 1.1845
+    },
+    {
+        "id": 359,
+        "Date": "01.07.2021",
+        "LastValue": 1.1848,
+        "OpeningValue": 1.1859,
+        "Max": 1.1885,
+        "Min": 1.1837
+    },
+    {
+        "id": 360,
+        "Date": "02.07.2021",
+        "LastValue": 1.1864,
+        "OpeningValue": 1.1849,
+        "Max": 1.1875,
+        "Min": 1.1806
+    },
+    {
+        "id": 361,
+        "Date": "05.07.2021",
+        "LastValue": 1.1861,
+        "OpeningValue": 1.1862,
+        "Max": 1.1882,
+        "Min": 1.1851
+    },
+    {
+        "id": 362,
+        "Date": "06.07.2021",
+        "LastValue": 1.1822,
+        "OpeningValue": 1.1863,
+        "Max": 1.1896,
+        "Min": 1.1806
+    },
+    {
+        "id": 363,
+        "Date": "07.07.2021",
+        "LastValue": 1.1789,
+        "OpeningValue": 1.1823,
+        "Max": 1.1839,
+        "Min": 1.1782
+    },
+    {
+        "id": 364,
+        "Date": "08.07.2021",
+        "LastValue": 1.1842,
+        "OpeningValue": 1.1792,
+        "Max": 1.1868,
+        "Min": 1.1783
+    },
+    {
+        "id": 365,
+        "Date": "09.07.2021",
+        "LastValue": 1.1873,
+        "OpeningValue": 1.1844,
+        "Max": 1.1882,
+        "Min": 1.1825
+    },
+    {
+        "id": 366,
+        "Date": "12.07.2021",
+        "LastValue": 1.1859,
+        "OpeningValue": 1.1872,
+        "Max": 1.1881,
+        "Min": 1.1836
+    },
+    {
+        "id": 367,
+        "Date": "13.07.2021",
+        "LastValue": 1.1774,
+        "OpeningValue": 1.1862,
+        "Max": 1.1876,
+        "Min": 1.1772
+    },
+    {
+        "id": 368,
+        "Date": "14.07.2021",
+        "LastValue": 1.1835,
+        "OpeningValue": 1.1776,
+        "Max": 1.1839,
+        "Min": 1.1772
+    },
+    {
+        "id": 369,
+        "Date": "15.07.2021",
+        "LastValue": 1.1812,
+        "OpeningValue": 1.1837,
+        "Max": 1.1852,
+        "Min": 1.1796
+    },
+    {
+        "id": 370,
+        "Date": "16.07.2021",
+        "LastValue": 1.1805,
+        "OpeningValue": 1.1814,
+        "Max": 1.1823,
+        "Min": 1.1791
+    },
+    {
+        "id": 371,
+        "Date": "19.07.2021",
+        "LastValue": 1.1798,
+        "OpeningValue": 1.1808,
+        "Max": 1.1825,
+        "Min": 1.1763
+    },
+    {
+        "id": 372,
+        "Date": "20.07.2021",
+        "LastValue": 1.1779,
+        "OpeningValue": 1.1801,
+        "Max": 1.1805,
+        "Min": 1.1755
+    },
+    {
+        "id": 373,
+        "Date": "21.07.2021",
+        "LastValue": 1.1792,
+        "OpeningValue": 1.1782,
+        "Max": 1.1805,
+        "Min": 1.1752
+    },
+    {
+        "id": 374,
+        "Date": "22.07.2021",
+        "LastValue": 1.177,
+        "OpeningValue": 1.1793,
+        "Max": 1.1831,
+        "Min": 1.1757
+    },
+    {
+        "id": 375,
+        "Date": "23.07.2021",
+        "LastValue": 1.1771,
+        "OpeningValue": 1.1769,
+        "Max": 1.1788,
+        "Min": 1.1753
+    },
+    {
+        "id": 376,
+        "Date": "26.07.2021",
+        "LastValue": 1.1799,
+        "OpeningValue": 1.1778,
+        "Max": 1.1818,
+        "Min": 1.1763
+    },
+    {
+        "id": 377,
+        "Date": "27.07.2021",
+        "LastValue": 1.1814,
+        "OpeningValue": 1.1804,
+        "Max": 1.1841,
+        "Min": 1.1769
+    },
+    {
+        "id": 378,
+        "Date": "28.07.2021",
+        "LastValue": 1.1842,
+        "OpeningValue": 1.1817,
+        "Max": 1.1851,
+        "Min": 1.1773
+    },
+    {
+        "id": 379,
+        "Date": "29.07.2021",
+        "LastValue": 1.1886,
+        "OpeningValue": 1.1845,
+        "Max": 1.1894,
+        "Min": 1.184
+    },
+    {
+        "id": 380,
+        "Date": "30.07.2021",
+        "LastValue": 1.187,
+        "OpeningValue": 1.1888,
+        "Max": 1.191,
+        "Min": 1.1851
+    },
+    {
+        "id": 381,
+        "Date": "02.08.2021",
+        "LastValue": 1.1867,
+        "OpeningValue": 1.1864,
+        "Max": 1.1897,
+        "Min": 1.1858
+    },
+    {
+        "id": 382,
+        "Date": "03.08.2021",
+        "LastValue": 1.186,
+        "OpeningValue": 1.1868,
+        "Max": 1.1894,
+        "Min": 1.1853
+    },
+    {
+        "id": 383,
+        "Date": "04.08.2021",
+        "LastValue": 1.1835,
+        "OpeningValue": 1.1864,
+        "Max": 1.1901,
+        "Min": 1.1832
+    },
+    {
+        "id": 384,
+        "Date": "05.08.2021",
+        "LastValue": 1.1832,
+        "OpeningValue": 1.1837,
+        "Max": 1.1858,
+        "Min": 1.1827
+    },
+    {
+        "id": 385,
+        "Date": "06.08.2021",
+        "LastValue": 1.176,
+        "OpeningValue": 1.1834,
+        "Max": 1.1837,
+        "Min": 1.1753
+    },
+    {
+        "id": 386,
+        "Date": "09.08.2021",
+        "LastValue": 1.1737,
+        "OpeningValue": 1.1762,
+        "Max": 1.1769,
+        "Min": 1.1734
+    },
+    {
+        "id": 387,
+        "Date": "10.08.2021",
+        "LastValue": 1.1718,
+        "OpeningValue": 1.1738,
+        "Max": 1.1744,
+        "Min": 1.171
+    },
+    {
+        "id": 388,
+        "Date": "11.08.2021",
+        "LastValue": 1.1737,
+        "OpeningValue": 1.172,
+        "Max": 1.1753,
+        "Min": 1.1705
+    },
+    {
+        "id": 389,
+        "Date": "12.08.2021",
+        "LastValue": 1.1727,
+        "OpeningValue": 1.1738,
+        "Max": 1.1749,
+        "Min": 1.1724
+    },
+    {
+        "id": 390,
+        "Date": "13.08.2021",
+        "LastValue": 1.1791,
+        "OpeningValue": 1.173,
+        "Max": 1.1805,
+        "Min": 1.1727
+    },
+    {
+        "id": 391,
+        "Date": "16.08.2021",
+        "LastValue": 1.1777,
+        "OpeningValue": 1.1794,
+        "Max": 1.1802,
+        "Min": 1.1767
+    },
+    {
+        "id": 392,
+        "Date": "17.08.2021",
+        "LastValue": 1.1708,
+        "OpeningValue": 1.1776,
+        "Max": 1.1786,
+        "Min": 1.1708
+    },
+    {
+        "id": 393,
+        "Date": "18.08.2021",
+        "LastValue": 1.171,
+        "OpeningValue": 1.171,
+        "Max": 1.1743,
+        "Min": 1.1694
+    },
+    {
+        "id": 394,
+        "Date": "19.08.2021",
+        "LastValue": 1.1674,
+        "OpeningValue": 1.1711,
+        "Max": 1.1717,
+        "Min": 1.1666
+    },
+    {
+        "id": 395,
+        "Date": "20.08.2021",
+        "LastValue": 1.1696,
+        "OpeningValue": 1.1675,
+        "Max": 1.1705,
+        "Min": 1.1664
+    },
+    {
+        "id": 396,
+        "Date": "23.08.2021",
+        "LastValue": 1.1743,
+        "OpeningValue": 1.1694,
+        "Max": 1.1751,
+        "Min": 1.1691
+    },
+    {
+        "id": 397,
+        "Date": "24.08.2021",
+        "LastValue": 1.1753,
+        "OpeningValue": 1.1746,
+        "Max": 1.1766,
+        "Min": 1.1726
+    },
+    {
+        "id": 398,
+        "Date": "25.08.2021",
+        "LastValue": 1.177,
+        "OpeningValue": 1.1754,
+        "Max": 1.1775,
+        "Min": 1.1725
+    },
+    {
+        "id": 399,
+        "Date": "26.08.2021",
+        "LastValue": 1.175,
+        "OpeningValue": 1.1772,
+        "Max": 1.1781,
+        "Min": 1.1746
+    },
+    {
+        "id": 400,
+        "Date": "27.08.2021",
+        "LastValue": 1.1793,
+        "OpeningValue": 1.1752,
+        "Max": 1.1803,
+        "Min": 1.1734
+    },
+    {
+        "id": 401,
+        "Date": "30.08.2021",
+        "LastValue": 1.1795,
+        "OpeningValue": 1.1793,
+        "Max": 1.181,
+        "Min": 1.1782
+    },
+    {
+        "id": 402,
+        "Date": "31.08.2021",
+        "LastValue": 1.1807,
+        "OpeningValue": 1.1797,
+        "Max": 1.1848,
+        "Min": 1.1795
+    },
+    {
+        "id": 403,
+        "Date": "01.09.2021",
+        "LastValue": 1.1837,
+        "OpeningValue": 1.181,
+        "Max": 1.1858,
+        "Min": 1.1793
+    },
+    {
+        "id": 404,
+        "Date": "02.09.2021",
+        "LastValue": 1.1873,
+        "OpeningValue": 1.1839,
+        "Max": 1.1877,
+        "Min": 1.1834
+    },
+    {
+        "id": 405,
+        "Date": "03.09.2021",
+        "LastValue": 1.1882,
+        "OpeningValue": 1.1875,
+        "Max": 1.191,
+        "Min": 1.1866
+    },
+    {
+        "id": 406,
+        "Date": "06.09.2021",
+        "LastValue": 1.1868,
+        "OpeningValue": 1.1879,
+        "Max": 1.1888,
+        "Min": 1.1855
+    },
+    {
+        "id": 407,
+        "Date": "07.09.2021",
+        "LastValue": 1.1839,
+        "OpeningValue": 1.187,
+        "Max": 1.1885,
+        "Min": 1.1837
+    },
+    {
+        "id": 408,
+        "Date": "08.09.2021",
+        "LastValue": 1.1813,
+        "OpeningValue": 1.184,
+        "Max": 1.1852,
+        "Min": 1.1802
+    },
+    {
+        "id": 409,
+        "Date": "09.09.2021",
+        "LastValue": 1.1825,
+        "OpeningValue": 1.1817,
+        "Max": 1.1842,
+        "Min": 1.1804
+    },
+    {
+        "id": 410,
+        "Date": "10.09.2021",
+        "LastValue": 1.1814,
+        "OpeningValue": 1.1826,
+        "Max": 1.1852,
+        "Min": 1.1809
+    },
+    {
+        "id": 411,
+        "Date": "13.09.2021",
+        "LastValue": 1.1808,
+        "OpeningValue": 1.1813,
+        "Max": 1.1818,
+        "Min": 1.1769
+    },
+    {
+        "id": 412,
+        "Date": "14.09.2021",
+        "LastValue": 1.1802,
+        "OpeningValue": 1.1812,
+        "Max": 1.1846,
+        "Min": 1.1799
+    },
+    {
+        "id": 413,
+        "Date": "15.09.2021",
+        "LastValue": 1.1815,
+        "OpeningValue": 1.1806,
+        "Max": 1.1833,
+        "Min": 1.1798
+    },
+    {
+        "id": 414,
+        "Date": "16.09.2021",
+        "LastValue": 1.1764,
+        "OpeningValue": 1.1816,
+        "Max": 1.1822,
+        "Min": 1.1751
+    },
+    {
+        "id": 415,
+        "Date": "17.09.2021",
+        "LastValue": 1.1725,
+        "OpeningValue": 1.1762,
+        "Max": 1.1789,
+        "Min": 1.1724
+    },
+    {
+        "id": 416,
+        "Date": "20.09.2021",
+        "LastValue": 1.1725,
+        "OpeningValue": 1.1732,
+        "Max": 1.1737,
+        "Min": 1.17
+    },
+    {
+        "id": 417,
+        "Date": "21.09.2021",
+        "LastValue": 1.1723,
+        "OpeningValue": 1.1726,
+        "Max": 1.1751,
+        "Min": 1.1715
+    },
+    {
+        "id": 418,
+        "Date": "22.09.2021",
+        "LastValue": 1.1686,
+        "OpeningValue": 1.1726,
+        "Max": 1.1757,
+        "Min": 1.1683
+    },
+    {
+        "id": 419,
+        "Date": "23.09.2021",
+        "LastValue": 1.1736,
+        "OpeningValue": 1.1686,
+        "Max": 1.1751,
+        "Min": 1.1683
+    },
+    {
+        "id": 420,
+        "Date": "24.09.2021",
+        "LastValue": 1.1714,
+        "OpeningValue": 1.1738,
+        "Max": 1.1748,
+        "Min": 1.17
+    },
+    {
+        "id": 421,
+        "Date": "27.09.2021",
+        "LastValue": 1.1694,
+        "OpeningValue": 1.1724,
+        "Max": 1.1728,
+        "Min": 1.1684
+    },
+    {
+        "id": 422,
+        "Date": "28.09.2021",
+        "LastValue": 1.1681,
+        "OpeningValue": 1.1696,
+        "Max": 1.1704,
+        "Min": 1.1667
+    },
+    {
+        "id": 423,
+        "Date": "29.09.2021",
+        "LastValue": 1.1595,
+        "OpeningValue": 1.1683,
+        "Max": 1.1691,
+        "Min": 1.1589
+    },
+    {
+        "id": 424,
+        "Date": "30.09.2021",
+        "LastValue": 1.1581,
+        "OpeningValue": 1.1596,
+        "Max": 1.1611,
+        "Min": 1.1562
+    },
+    {
+        "id": 425,
+        "Date": "01.10.2021",
+        "LastValue": 1.1594,
+        "OpeningValue": 1.1582,
+        "Max": 1.1608,
+        "Min": 1.1563
+    },
+    {
+        "id": 426,
+        "Date": "04.10.2021",
+        "LastValue": 1.1621,
+        "OpeningValue": 1.1593,
+        "Max": 1.1641,
+        "Min": 1.1587
+    },
+    {
+        "id": 427,
+        "Date": "05.10.2021",
+        "LastValue": 1.1596,
+        "OpeningValue": 1.1623,
+        "Max": 1.1623,
+        "Min": 1.158
+    },
+    {
+        "id": 428,
+        "Date": "06.10.2021",
+        "LastValue": 1.1556,
+        "OpeningValue": 1.1603,
+        "Max": 1.1605,
+        "Min": 1.1529
+    },
+    {
+        "id": 429,
+        "Date": "07.10.2021",
+        "LastValue": 1.155,
+        "OpeningValue": 1.1556,
+        "Max": 1.1573,
+        "Min": 1.1547
+    },
+    {
+        "id": 430,
+        "Date": "08.10.2021",
+        "LastValue": 1.1567,
+        "OpeningValue": 1.1551,
+        "Max": 1.1586,
+        "Min": 1.154
+    },
+    {
+        "id": 431,
+        "Date": "11.10.2021",
+        "LastValue": 1.1551,
+        "OpeningValue": 1.1571,
+        "Max": 1.1588,
+        "Min": 1.1549
+    },
+    {
+        "id": 432,
+        "Date": "12.10.2021",
+        "LastValue": 1.1527,
+        "OpeningValue": 1.1555,
+        "Max": 1.1571,
+        "Min": 1.1524
+    },
+    {
+        "id": 433,
+        "Date": "13.10.2021",
+        "LastValue": 1.1592,
+        "OpeningValue": 1.1528,
+        "Max": 1.1598,
+        "Min": 1.1527
+    },
+    {
+        "id": 434,
+        "Date": "14.10.2021",
+        "LastValue": 1.1594,
+        "OpeningValue": 1.1593,
+        "Max": 1.1625,
+        "Min": 1.1583
+    },
+    {
+        "id": 435,
+        "Date": "15.10.2021",
+        "LastValue": 1.16,
+        "OpeningValue": 1.1599,
+        "Max": 1.1621,
+        "Min": 1.1588
+    },
+    {
+        "id": 436,
+        "Date": "18.10.2021",
+        "LastValue": 1.1609,
+        "OpeningValue": 1.1597,
+        "Max": 1.1624,
+        "Min": 1.1571
+    },
+    {
+        "id": 437,
+        "Date": "19.10.2021",
+        "LastValue": 1.1632,
+        "OpeningValue": 1.1611,
+        "Max": 1.167,
+        "Min": 1.1608
+    },
+    {
+        "id": 438,
+        "Date": "20.10.2021",
+        "LastValue": 1.1649,
+        "OpeningValue": 1.1634,
+        "Max": 1.1659,
+        "Min": 1.1616
+    },
+    {
+        "id": 439,
+        "Date": "21.10.2021",
+        "LastValue": 1.1621,
+        "OpeningValue": 1.165,
+        "Max": 1.1668,
+        "Min": 1.1619
+    },
+    {
+        "id": 440,
+        "Date": "22.10.2021",
+        "LastValue": 1.1647,
+        "OpeningValue": 1.1623,
+        "Max": 1.1656,
+        "Min": 1.1621
+    },
+    {
+        "id": 441,
+        "Date": "25.10.2021",
+        "LastValue": 1.1606,
+        "OpeningValue": 1.1644,
+        "Max": 1.1666,
+        "Min": 1.159
+    },
+    {
+        "id": 442,
+        "Date": "26.10.2021",
+        "LastValue": 1.1595,
+        "OpeningValue": 1.1607,
+        "Max": 1.1626,
+        "Min": 1.1585
+    },
+    {
+        "id": 443,
+        "Date": "27.10.2021",
+        "LastValue": 1.1604,
+        "OpeningValue": 1.1597,
+        "Max": 1.1626,
+        "Min": 1.1585
+    },
+    {
+        "id": 444,
+        "Date": "28.10.2021",
+        "LastValue": 1.1679,
+        "OpeningValue": 1.1605,
+        "Max": 1.1693,
+        "Min": 1.1581
+    },
+    {
+        "id": 445,
+        "Date": "29.10.2021",
+        "LastValue": 1.1561,
+        "OpeningValue": 1.168,
+        "Max": 1.169,
+        "Min": 1.1535
+    },
+    {
+        "id": 446,
+        "Date": "01.11.2021",
+        "LastValue": 1.1606,
+        "OpeningValue": 1.1559,
+        "Max": 1.161,
+        "Min": 1.1545
+    },
+    {
+        "id": 447,
+        "Date": "02.11.2021",
+        "LastValue": 1.1577,
+        "OpeningValue": 1.1605,
+        "Max": 1.1615,
+        "Min": 1.1574
+    },
+    {
+        "id": 448,
+        "Date": "03.11.2021",
+        "LastValue": 1.161,
+        "OpeningValue": 1.1579,
+        "Max": 1.1617,
+        "Min": 1.1561
+    },
+    {
+        "id": 449,
+        "Date": "04.11.2021",
+        "LastValue": 1.1552,
+        "OpeningValue": 1.1611,
+        "Max": 1.1617,
+        "Min": 1.1528
+    },
+    {
+        "id": 450,
+        "Date": "05.11.2021",
+        "LastValue": 1.1566,
+        "OpeningValue": 1.1553,
+        "Max": 1.1574,
+        "Min": 1.1513
+    },
+    {
+        "id": 451,
+        "Date": "08.11.2021",
+        "LastValue": 1.1586,
+        "OpeningValue": 1.1555,
+        "Max": 1.1595,
+        "Min": 1.155
+    },
+    {
+        "id": 452,
+        "Date": "09.11.2021",
+        "LastValue": 1.1591,
+        "OpeningValue": 1.1588,
+        "Max": 1.1609,
+        "Min": 1.1569
+    },
+    {
+        "id": 453,
+        "Date": "10.11.2021",
+        "LastValue": 1.1478,
+        "OpeningValue": 1.1593,
+        "Max": 1.1596,
+        "Min": 1.1475
+    },
+    {
+        "id": 454,
+        "Date": "11.11.2021",
+        "LastValue": 1.145,
+        "OpeningValue": 1.1482,
+        "Max": 1.1488,
+        "Min": 1.1443
+    },
+    {
+        "id": 455,
+        "Date": "12.11.2021",
+        "LastValue": 1.145,
+        "OpeningValue": 1.1454,
+        "Max": 1.1463,
+        "Min": 1.1432
+    },
+    {
+        "id": 456,
+        "Date": "15.11.2021",
+        "LastValue": 1.1367,
+        "OpeningValue": 1.1452,
+        "Max": 1.1465,
+        "Min": 1.1356
+    },
+    {
+        "id": 457,
+        "Date": "16.11.2021",
+        "LastValue": 1.1319,
+        "OpeningValue": 1.1368,
+        "Max": 1.1386,
+        "Min": 1.1309
+    },
+    {
+        "id": 458,
+        "Date": "17.11.2021",
+        "LastValue": 1.1319,
+        "OpeningValue": 1.1321,
+        "Max": 1.1333,
+        "Min": 1.1264
+    },
+    {
+        "id": 459,
+        "Date": "18.11.2021",
+        "LastValue": 1.1369,
+        "OpeningValue": 1.1319,
+        "Max": 1.1375,
+        "Min": 1.1314
+    },
+    {
+        "id": 460,
+        "Date": "19.11.2021",
+        "LastValue": 1.1288,
+        "OpeningValue": 1.1371,
+        "Max": 1.1374,
+        "Min": 1.125
+    },
+    {
+        "id": 461,
+        "Date": "22.11.2021",
+        "LastValue": 1.1234,
+        "OpeningValue": 1.1292,
+        "Max": 1.1293,
+        "Min": 1.123
+    },
+    {
+        "id": 462,
+        "Date": "23.11.2021",
+        "LastValue": 1.1246,
+        "OpeningValue": 1.1237,
+        "Max": 1.1276,
+        "Min": 1.1226
+    },
+    {
+        "id": 463,
+        "Date": "24.11.2021",
+        "LastValue": 1.1197,
+        "OpeningValue": 1.1248,
+        "Max": 1.1256,
+        "Min": 1.1185
+    },
+    {
+        "id": 464,
+        "Date": "25.11.2021",
+        "LastValue": 1.1206,
+        "OpeningValue": 1.1198,
+        "Max": 1.1231,
+        "Min": 1.1198
+    },
+    {
+        "id": 465,
+        "Date": "26.11.2021",
+        "LastValue": 1.1317,
+        "OpeningValue": 1.1209,
+        "Max": 1.1331,
+        "Min": 1.1205
+    },
+    {
+        "id": 466,
+        "Date": "29.11.2021",
+        "LastValue": 1.1291,
+        "OpeningValue": 1.1309,
+        "Max": 1.1316,
+        "Min": 1.1258
+    },
+    {
+        "id": 467,
+        "Date": "30.11.2021",
+        "LastValue": 1.1336,
+        "OpeningValue": 1.1291,
+        "Max": 1.1384,
+        "Min": 1.1236
+    },
+    {
+        "id": 468,
+        "Date": "01.12.2021",
+        "LastValue": 1.1319,
+        "OpeningValue": 1.1339,
+        "Max": 1.136,
+        "Min": 1.1302
+    },
+    {
+        "id": 469,
+        "Date": "02.12.2021",
+        "LastValue": 1.1299,
+        "OpeningValue": 1.132,
+        "Max": 1.1349,
+        "Min": 1.1294
+    },
+    {
+        "id": 470,
+        "Date": "03.12.2021",
+        "LastValue": 1.1313,
+        "OpeningValue": 1.1301,
+        "Max": 1.1334,
+        "Min": 1.1265
+    },
+    {
+        "id": 471,
+        "Date": "06.12.2021",
+        "LastValue": 1.1285,
+        "OpeningValue": 1.1321,
+        "Max": 1.1321,
+        "Min": 1.1266
+    },
+    {
+        "id": 472,
+        "Date": "07.12.2021",
+        "LastValue": 1.1263,
+        "OpeningValue": 1.1287,
+        "Max": 1.1301,
+        "Min": 1.1228
+    },
+    {
+        "id": 473,
+        "Date": "08.12.2021",
+        "LastValue": 1.1342,
+        "OpeningValue": 1.1267,
+        "Max": 1.1356,
+        "Min": 1.1264
+    },
+    {
+        "id": 474,
+        "Date": "09.12.2021",
+        "LastValue": 1.1292,
+        "OpeningValue": 1.1342,
+        "Max": 1.1348,
+        "Min": 1.1278
+    },
+    {
+        "id": 475,
+        "Date": "10.12.2021",
+        "LastValue": 1.1311,
+        "OpeningValue": 1.1293,
+        "Max": 1.1325,
+        "Min": 1.1264
+    },
+    {
+        "id": 476,
+        "Date": "13.12.2021",
+        "LastValue": 1.1283,
+        "OpeningValue": 1.1316,
+        "Max": 1.1321,
+        "Min": 1.1259
+    },
+    {
+        "id": 477,
+        "Date": "14.12.2021",
+        "LastValue": 1.1257,
+        "OpeningValue": 1.1285,
+        "Max": 1.1327,
+        "Min": 1.1253
+    },
+    {
+        "id": 478,
+        "Date": "15.12.2021",
+        "LastValue": 1.1285,
+        "OpeningValue": 1.1259,
+        "Max": 1.13,
+        "Min": 1.1221
+    },
+    {
+        "id": 479,
+        "Date": "16.12.2021",
+        "LastValue": 1.1328,
+        "OpeningValue": 1.1286,
+        "Max": 1.1361,
+        "Min": 1.128
+    },
+    {
+        "id": 480,
+        "Date": "17.12.2021",
+        "LastValue": 1.1239,
+        "OpeningValue": 1.133,
+        "Max": 1.135,
+        "Min": 1.1235
+    },
+    {
+        "id": 481,
+        "Date": "20.12.2021",
+        "LastValue": 1.1275,
+        "OpeningValue": 1.1242,
+        "Max": 1.1305,
+        "Min": 1.1234
+    },
+    {
+        "id": 482,
+        "Date": "21.12.2021",
+        "LastValue": 1.1283,
+        "OpeningValue": 1.1277,
+        "Max": 1.1303,
+        "Min": 1.126
+    },
+    {
+        "id": 483,
+        "Date": "22.12.2021",
+        "LastValue": 1.1324,
+        "OpeningValue": 1.1279,
+        "Max": 1.1343,
+        "Min": 1.1264
+    },
+    {
+        "id": 484,
+        "Date": "23.12.2021",
+        "LastValue": 1.1328,
+        "OpeningValue": 1.1325,
+        "Max": 1.1343,
+        "Min": 1.1289
+    },
+    {
+        "id": 485,
+        "Date": "24.12.2021",
+        "LastValue": 1.1317,
+        "OpeningValue": 1.133,
+        "Max": 1.1344,
+        "Min": 1.1303
+    },
+    {
+        "id": 486,
+        "Date": "27.12.2021",
+        "LastValue": 1.1325,
+        "OpeningValue": 1.1318,
+        "Max": 1.1335,
+        "Min": 1.1302
+    },
+    {
+        "id": 487,
+        "Date": "28.12.2021",
+        "LastValue": 1.1309,
+        "OpeningValue": 1.1329,
+        "Max": 1.1335,
+        "Min": 1.1289
+    },
+    {
+        "id": 488,
+        "Date": "29.12.2021",
+        "LastValue": 1.1348,
+        "OpeningValue": 1.131,
+        "Max": 1.137,
+        "Min": 1.1273
+    },
+    {
+        "id": 489,
+        "Date": "30.12.2021",
+        "LastValue": 1.1323,
+        "OpeningValue": 1.1349,
+        "Max": 1.136,
+        "Min": 1.1298
+    },
+    {
+        "id": 490,
+        "Date": "31.12.2021",
+        "LastValue": 1.1368,
+        "OpeningValue": 1.1324,
+        "Max": 1.1387,
+        "Min": 1.1302
+    },
+    {
+        "id": 491,
+        "Date": "03.01.2022",
+        "LastValue": 1.1294,
+        "OpeningValue": 1.1365,
+        "Max": 1.1381,
+        "Min": 1.1279
+    },
+    {
+        "id": 492,
+        "Date": "04.01.2022",
+        "LastValue": 1.1285,
+        "OpeningValue": 1.1298,
+        "Max": 1.1323,
+        "Min": 1.1272
+    },
+    {
+        "id": 493,
+        "Date": "05.01.2022",
+        "LastValue": 1.1313,
+        "OpeningValue": 1.1287,
+        "Max": 1.1347,
+        "Min": 1.1277
+    },
+    {
+        "id": 494,
+        "Date": "06.01.2022",
+        "LastValue": 1.1291,
+        "OpeningValue": 1.1314,
+        "Max": 1.1332,
+        "Min": 1.1285
+    },
+    {
+        "id": 495,
+        "Date": "07.01.2022",
+        "LastValue": 1.1359,
+        "OpeningValue": 1.1293,
+        "Max": 1.1365,
+        "Min": 1.1289
+    },
+    {
+        "id": 496,
+        "Date": "10.01.2022",
+        "LastValue": 1.1324,
+        "OpeningValue": 1.1353,
+        "Max": 1.1362,
+        "Min": 1.1285
+    },
+    {
+        "id": 497,
+        "Date": "11.01.2022",
+        "LastValue": 1.1364,
+        "OpeningValue": 1.1325,
+        "Max": 1.1375,
+        "Min": 1.1313
+    },
+    {
+        "id": 498,
+        "Date": "12.01.2022",
+        "LastValue": 1.1442,
+        "OpeningValue": 1.1366,
+        "Max": 1.1453,
+        "Min": 1.1354
+    },
+    {
+        "id": 499,
+        "Date": "13.01.2022",
+        "LastValue": 1.1453,
+        "OpeningValue": 1.1443,
+        "Max": 1.1482,
+        "Min": 1.1435
+    },
+    {
+        "id": 500,
+        "Date": "14.01.2022",
+        "LastValue": 1.1414,
+        "OpeningValue": 1.1454,
+        "Max": 1.1484,
+        "Min": 1.1398
+    },
+    {
+        "id": 501,
+        "Date": "17.01.2022",
+        "LastValue": 1.1407,
+        "OpeningValue": 1.1414,
+        "Max": 1.1436,
+        "Min": 1.1392
+    },
+    {
+        "id": 502,
+        "Date": "18.01.2022",
+        "LastValue": 1.1325,
+        "OpeningValue": 1.1408,
+        "Max": 1.1422,
+        "Min": 1.1314
+    },
+    {
+        "id": 503,
+        "Date": "19.01.2022",
+        "LastValue": 1.1341,
+        "OpeningValue": 1.1321,
+        "Max": 1.1358,
+        "Min": 1.1318
+    },
+    {
+        "id": 504,
+        "Date": "20.01.2022",
+        "LastValue": 1.131,
+        "OpeningValue": 1.1342,
+        "Max": 1.137,
+        "Min": 1.1302
+    },
+    {
+        "id": 505,
+        "Date": "21.01.2022",
+        "LastValue": 1.134,
+        "OpeningValue": 1.1312,
+        "Max": 1.136,
+        "Min": 1.13
+    },
+    {
+        "id": 506,
+        "Date": "24.01.2022",
+        "LastValue": 1.1323,
+        "OpeningValue": 1.1343,
+        "Max": 1.1346,
+        "Min": 1.129
+    },
+    {
+        "id": 507,
+        "Date": "25.01.2022",
+        "LastValue": 1.1299,
+        "OpeningValue": 1.1324,
+        "Max": 1.133,
+        "Min": 1.1263
+    },
+    {
+        "id": 508,
+        "Date": "26.01.2022",
+        "LastValue": 1.1237,
+        "OpeningValue": 1.1301,
+        "Max": 1.1312,
+        "Min": 1.1235
+    },
+    {
+        "id": 509,
+        "Date": "27.01.2022",
+        "LastValue": 1.1143,
+        "OpeningValue": 1.124,
+        "Max": 1.1244,
+        "Min": 1.1132
+    },
+    {
+        "id": 510,
+        "Date": "28.01.2022",
+        "LastValue": 1.1143,
+        "OpeningValue": 1.1146,
+        "Max": 1.1174,
+        "Min": 1.1121
+    },
+    {
+        "id": 511,
+        "Date": "31.01.2022",
+        "LastValue": 1.1233,
+        "OpeningValue": 1.1147,
+        "Max": 1.1249,
+        "Min": 1.1138
+    },
+    {
+        "id": 512,
+        "Date": "01.02.2022",
+        "LastValue": 1.1269,
+        "OpeningValue": 1.1234,
+        "Max": 1.1279,
+        "Min": 1.1221
+    },
+    {
+        "id": 513,
+        "Date": "02.02.2022",
+        "LastValue": 1.1303,
+        "OpeningValue": 1.127,
+        "Max": 1.1331,
+        "Min": 1.1266
+    },
+    {
+        "id": 514,
+        "Date": "03.02.2022",
+        "LastValue": 1.1438,
+        "OpeningValue": 1.1306,
+        "Max": 1.1452,
+        "Min": 1.1267
+    },
+    {
+        "id": 515,
+        "Date": "04.02.2022",
+        "LastValue": 1.1446,
+        "OpeningValue": 1.1439,
+        "Max": 1.1485,
+        "Min": 1.1411
+    },
+    {
+        "id": 516,
+        "Date": "07.02.2022",
+        "LastValue": 1.1442,
+        "OpeningValue": 1.1468,
+        "Max": 1.1469,
+        "Min": 1.1415
+    },
+    {
+        "id": 517,
+        "Date": "08.02.2022",
+        "LastValue": 1.1414,
+        "OpeningValue": 1.1443,
+        "Max": 1.145,
+        "Min": 1.1395
+    },
+    {
+        "id": 518,
+        "Date": "09.02.2022",
+        "LastValue": 1.1422,
+        "OpeningValue": 1.1416,
+        "Max": 1.1449,
+        "Min": 1.1402
+    },
+    {
+        "id": 519,
+        "Date": "10.02.2022",
+        "LastValue": 1.1427,
+        "OpeningValue": 1.1429,
+        "Max": 1.1496,
+        "Min": 1.1374
+    },
+    {
+        "id": 520,
+        "Date": "11.02.2022",
+        "LastValue": 1.1349,
+        "OpeningValue": 1.1428,
+        "Max": 1.1431,
+        "Min": 1.1329
+    },
+    {
+        "id": 521,
+        "Date": "14.02.2022",
+        "LastValue": 1.1305,
+        "OpeningValue": 1.1344,
+        "Max": 1.137,
+        "Min": 1.1279
+    },
+    {
+        "id": 522,
+        "Date": "15.02.2022",
+        "LastValue": 1.1356,
+        "OpeningValue": 1.1307,
+        "Max": 1.1369,
+        "Min": 1.1301
+    },
+    {
+        "id": 523,
+        "Date": "16.02.2022",
+        "LastValue": 1.1373,
+        "OpeningValue": 1.136,
+        "Max": 1.1396,
+        "Min": 1.1344
+    },
+    {
+        "id": 524,
+        "Date": "17.02.2022",
+        "LastValue": 1.136,
+        "OpeningValue": 1.1374,
+        "Max": 1.1386,
+        "Min": 1.1322
+    },
+    {
+        "id": 525,
+        "Date": "18.02.2022",
+        "LastValue": 1.1321,
+        "OpeningValue": 1.1362,
+        "Max": 1.1378,
+        "Min": 1.1314
+    },
+    {
+        "id": 526,
+        "Date": "21.02.2022",
+        "LastValue": 1.131,
+        "OpeningValue": 1.1315,
+        "Max": 1.1391,
+        "Min": 1.1306
+    },
+    {
+        "id": 527,
+        "Date": "22.02.2022",
+        "LastValue": 1.1325,
+        "OpeningValue": 1.1312,
+        "Max": 1.1367,
+        "Min": 1.1287
+    },
+    {
+        "id": 528,
+        "Date": "23.02.2022",
+        "LastValue": 1.1309,
+        "OpeningValue": 1.1327,
+        "Max": 1.1359,
+        "Min": 1.13
+    },
+    {
+        "id": 529,
+        "Date": "24.02.2022",
+        "LastValue": 1.1191,
+        "OpeningValue": 1.1313,
+        "Max": 1.1314,
+        "Min": 1.1106
+    },
+    {
+        "id": 530,
+        "Date": "25.02.2022",
+        "LastValue": 1.1267,
+        "OpeningValue": 1.1192,
+        "Max": 1.1275,
+        "Min": 1.1165
+    },
+    {
+        "id": 531,
+        "Date": "28.02.2022",
+        "LastValue": 1.1219,
+        "OpeningValue": 1.1179,
+        "Max": 1.1247,
+        "Min": 1.1122
+    },
+    {
+        "id": 532,
+        "Date": "01.03.2022",
+        "LastValue": 1.1126,
+        "OpeningValue": 1.1218,
+        "Max": 1.1234,
+        "Min": 1.109
+    },
+    {
+        "id": 533,
+        "Date": "02.03.2022",
+        "LastValue": 1.1121,
+        "OpeningValue": 1.1127,
+        "Max": 1.1147,
+        "Min": 1.1057
+    },
+    {
+        "id": 534,
+        "Date": "03.03.2022",
+        "LastValue": 1.1064,
+        "OpeningValue": 1.1118,
+        "Max": 1.1125,
+        "Min": 1.1033
+    },
+    {
+        "id": 535,
+        "Date": "04.03.2022",
+        "LastValue": 1.0926,
+        "OpeningValue": 1.1068,
+        "Max": 1.1069,
+        "Min": 1.0886
+    },
+    {
+        "id": 536,
+        "Date": "07.03.2022",
+        "LastValue": 1.0852,
+        "OpeningValue": 1.0953,
+        "Max": 1.0953,
+        "Min": 1.0805
+    },
+    {
+        "id": 537,
+        "Date": "08.03.2022",
+        "LastValue": 1.0899,
+        "OpeningValue": 1.0855,
+        "Max": 1.096,
+        "Min": 1.0848
+    },
+    {
+        "id": 538,
+        "Date": "09.03.2022",
+        "LastValue": 1.1075,
+        "OpeningValue": 1.0903,
+        "Max": 1.1096,
+        "Min": 1.089
+    },
+    {
+        "id": 539,
+        "Date": "10.03.2022",
+        "LastValue": 1.0983,
+        "OpeningValue": 1.1075,
+        "Max": 1.1121,
+        "Min": 1.0976
+    },
+    {
+        "id": 540,
+        "Date": "11.03.2022",
+        "LastValue": 1.0909,
+        "OpeningValue": 1.0984,
+        "Max": 1.1044,
+        "Min": 1.0901
+    },
+    {
+        "id": 541,
+        "Date": "14.03.2022",
+        "LastValue": 1.0939,
+        "OpeningValue": 1.0943,
+        "Max": 1.0994,
+        "Min": 1.09
+    },
+    {
+        "id": 542,
+        "Date": "15.03.2022",
+        "LastValue": 1.0951,
+        "OpeningValue": 1.094,
+        "Max": 1.102,
+        "Min": 1.0926
+    },
+    {
+        "id": 543,
+        "Date": "16.03.2022",
+        "LastValue": 1.1032,
+        "OpeningValue": 1.0956,
+        "Max": 1.1048,
+        "Min": 1.0948
+    },
+    {
+        "id": 544,
+        "Date": "17.03.2022",
+        "LastValue": 1.1089,
+        "OpeningValue": 1.1036,
+        "Max": 1.1138,
+        "Min": 1.1008
+    },
+    {
+        "id": 545,
+        "Date": "18.03.2022",
+        "LastValue": 1.1055,
+        "OpeningValue": 1.1091,
+        "Max": 1.112,
+        "Min": 1.1003
+    },
+    {
+        "id": 546,
+        "Date": "21.03.2022",
+        "LastValue": 1.1014,
+        "OpeningValue": 1.1059,
+        "Max": 1.107,
+        "Min": 1.101
+    },
+    {
+        "id": 547,
+        "Date": "22.03.2022",
+        "LastValue": 1.1027,
+        "OpeningValue": 1.1018,
+        "Max": 1.1047,
+        "Min": 1.096
+    },
+    {
+        "id": 548,
+        "Date": "23.03.2022",
+        "LastValue": 1.1004,
+        "OpeningValue": 1.1027,
+        "Max": 1.1044,
+        "Min": 1.0963
+    },
+    {
+        "id": 549,
+        "Date": "24.03.2022",
+        "LastValue": 1.0996,
+        "OpeningValue": 1.1004,
+        "Max": 1.1014,
+        "Min": 1.0965
+    },
+    {
+        "id": 550,
+        "Date": "25.03.2022",
+        "LastValue": 1.0981,
+        "OpeningValue": 1.0994,
+        "Max": 1.1039,
+        "Min": 1.0979
+    },
+    {
+        "id": 551,
+        "Date": "28.03.2022",
+        "LastValue": 1.0978,
+        "OpeningValue": 1.0989,
+        "Max": 1.1,
+        "Min": 1.0944
+    },
+    {
+        "id": 552,
+        "Date": "29.03.2022",
+        "LastValue": 1.1085,
+        "OpeningValue": 1.098,
+        "Max": 1.1137,
+        "Min": 1.097
+    },
+    {
+        "id": 553,
+        "Date": "30.03.2022",
+        "LastValue": 1.1156,
+        "OpeningValue": 1.1087,
+        "Max": 1.1171,
+        "Min": 1.1083
+    },
+    {
+        "id": 554,
+        "Date": "31.03.2022",
+        "LastValue": 1.1065,
+        "OpeningValue": 1.1158,
+        "Max": 1.1185,
+        "Min": 1.1061
+    },
+    {
+        "id": 555,
+        "Date": "01.04.2022",
+        "LastValue": 1.1053,
+        "OpeningValue": 1.1065,
+        "Max": 1.1077,
+        "Min": 1.1027
+    },
+    {
+        "id": 556,
+        "Date": "04.04.2022",
+        "LastValue": 1.097,
+        "OpeningValue": 1.1039,
+        "Max": 1.1056,
+        "Min": 1.096
+    },
+    {
+        "id": 557,
+        "Date": "05.04.2022",
+        "LastValue": 1.0903,
+        "OpeningValue": 1.0973,
+        "Max": 1.099,
+        "Min": 1.0899
+    },
+    {
+        "id": 558,
+        "Date": "06.04.2022",
+        "LastValue": 1.0893,
+        "OpeningValue": 1.0906,
+        "Max": 1.0939,
+        "Min": 1.0874
+    },
+    {
+        "id": 559,
+        "Date": "07.04.2022",
+        "LastValue": 1.0878,
+        "OpeningValue": 1.0893,
+        "Max": 1.0939,
+        "Min": 1.0864
+    },
+    {
+        "id": 560,
+        "Date": "08.04.2022",
+        "LastValue": 1.0876,
+        "OpeningValue": 1.0879,
+        "Max": 1.0892,
+        "Min": 1.0836
+    },
+    {
+        "id": 561,
+        "Date": "11.04.2022",
+        "LastValue": 1.0883,
+        "OpeningValue": 1.0935,
+        "Max": 1.0951,
+        "Min": 1.0872
+    },
+    {
+        "id": 562,
+        "Date": "12.04.2022",
+        "LastValue": 1.0826,
+        "OpeningValue": 1.0882,
+        "Max": 1.0905,
+        "Min": 1.0821
+    },
+    {
+        "id": 563,
+        "Date": "13.04.2022",
+        "LastValue": 1.0885,
+        "OpeningValue": 1.083,
+        "Max": 1.0896,
+        "Min": 1.0809
+    },
+    {
+        "id": 564,
+        "Date": "14.04.2022",
+        "LastValue": 1.0827,
+        "OpeningValue": 1.0887,
+        "Max": 1.0925,
+        "Min": 1.0757
+    },
+    {
+        "id": 565,
+        "Date": "15.04.2022",
+        "LastValue": 1.0806,
+        "OpeningValue": 1.0828,
+        "Max": 1.0832,
+        "Min": 1.0796
+    },
+    {
+        "id": 566,
+        "Date": "18.04.2022",
+        "LastValue": 1.078,
+        "OpeningValue": 1.0805,
+        "Max": 1.0822,
+        "Min": 1.0769
+    },
+    {
+        "id": 567,
+        "Date": "19.04.2022",
+        "LastValue": 1.0786,
+        "OpeningValue": 1.0783,
+        "Max": 1.0815,
+        "Min": 1.0761
+    },
+    {
+        "id": 568,
+        "Date": "20.04.2022",
+        "LastValue": 1.085,
+        "OpeningValue": 1.0788,
+        "Max": 1.0868,
+        "Min": 1.0783
+    },
+    {
+        "id": 569,
+        "Date": "21.04.2022",
+        "LastValue": 1.0836,
+        "OpeningValue": 1.0853,
+        "Max": 1.0937,
+        "Min": 1.0824
+    },
+    {
+        "id": 570,
+        "Date": "22.04.2022",
+        "LastValue": 1.0794,
+        "OpeningValue": 1.0838,
+        "Max": 1.0853,
+        "Min": 1.077
+    },
+    {
+        "id": 571,
+        "Date": "25.04.2022",
+        "LastValue": 1.0711,
+        "OpeningValue": 1.0841,
+        "Max": 1.0842,
+        "Min": 1.0697
+    },
+    {
+        "id": 572,
+        "Date": "26.04.2022",
+        "LastValue": 1.0636,
+        "OpeningValue": 1.0713,
+        "Max": 1.074,
+        "Min": 1.0635
+    },
+    {
+        "id": 573,
+        "Date": "27.04.2022",
+        "LastValue": 1.0555,
+        "OpeningValue": 1.0638,
+        "Max": 1.0655,
+        "Min": 1.0513
+    },
+    {
+        "id": 574,
+        "Date": "28.04.2022",
+        "LastValue": 1.0494,
+        "OpeningValue": 1.0557,
+        "Max": 1.0566,
+        "Min": 1.0471
+    },
+    {
+        "id": 575,
+        "Date": "29.04.2022",
+        "LastValue": 1.0541,
+        "OpeningValue": 1.0498,
+        "Max": 1.0593,
+        "Min": 1.0491
+    },
+    {
+        "id": 576,
+        "Date": "02.05.2022",
+        "LastValue": 1.0504,
+        "OpeningValue": 1.055,
+        "Max": 1.0569,
+        "Min": 1.049
+    },
+    {
+        "id": 577,
+        "Date": "03.05.2022",
+        "LastValue": 1.052,
+        "OpeningValue": 1.0502,
+        "Max": 1.0579,
+        "Min": 1.0491
+    },
+    {
+        "id": 578,
+        "Date": "04.05.2022",
+        "LastValue": 1.0621,
+        "OpeningValue": 1.0516,
+        "Max": 1.0632,
+        "Min": 1.0505
+    },
+    {
+        "id": 579,
+        "Date": "05.05.2022",
+        "LastValue": 1.054,
+        "OpeningValue": 1.0623,
+        "Max": 1.0642,
+        "Min": 1.0493
+    },
+    {
+        "id": 580,
+        "Date": "06.05.2022",
+        "LastValue": 1.0551,
+        "OpeningValue": 1.0544,
+        "Max": 1.0601,
+        "Min": 1.0482
+    },
+    {
+        "id": 581,
+        "Date": "09.05.2022",
+        "LastValue": 1.0555,
+        "OpeningValue": 1.0552,
+        "Max": 1.0594,
+        "Min": 1.0495
+    },
+    {
+        "id": 582,
+        "Date": "10.05.2022",
+        "LastValue": 1.0527,
+        "OpeningValue": 1.0557,
+        "Max": 1.0586,
+        "Min": 1.0525
+    },
+    {
+        "id": 583,
+        "Date": "11.05.2022",
+        "LastValue": 1.0511,
+        "OpeningValue": 1.0529,
+        "Max": 1.0577,
+        "Min": 1.0502
+    },
+    {
+        "id": 584,
+        "Date": "12.05.2022",
+        "LastValue": 1.0379,
+        "OpeningValue": 1.0512,
+        "Max": 1.053,
+        "Min": 1.0353
+    },
+    {
+        "id": 585,
+        "Date": "13.05.2022",
+        "LastValue": 1.0411,
+        "OpeningValue": 1.0379,
+        "Max": 1.0421,
+        "Min": 1.035
+    },
+    {
+        "id": 586,
+        "Date": "16.05.2022",
+        "LastValue": 1.0431,
+        "OpeningValue": 1.0405,
+        "Max": 1.0444,
+        "Min": 1.0388
+    },
+    {
+        "id": 587,
+        "Date": "17.05.2022",
+        "LastValue": 1.0547,
+        "OpeningValue": 1.0434,
+        "Max": 1.0556,
+        "Min": 1.0429
+    },
+    {
+        "id": 588,
+        "Date": "18.05.2022",
+        "LastValue": 1.0466,
+        "OpeningValue": 1.0549,
+        "Max": 1.0565,
+        "Min": 1.046
+    },
+    {
+        "id": 589,
+        "Date": "19.05.2022",
+        "LastValue": 1.0586,
+        "OpeningValue": 1.047,
+        "Max": 1.0608,
+        "Min": 1.046
+    },
+    {
+        "id": 590,
+        "Date": "20.05.2022",
+        "LastValue": 1.056,
+        "OpeningValue": 1.0586,
+        "Max": 1.0599,
+        "Min": 1.0532
+    },
+    {
+        "id": 591,
+        "Date": "23.05.2022",
+        "LastValue": 1.0689,
+        "OpeningValue": 1.0572,
+        "Max": 1.0698,
+        "Min": 1.0558
+    },
+    {
+        "id": 592,
+        "Date": "24.05.2022",
+        "LastValue": 1.0734,
+        "OpeningValue": 1.069,
+        "Max": 1.0749,
+        "Min": 1.0661
+    },
+    {
+        "id": 593,
+        "Date": "25.05.2022",
+        "LastValue": 1.068,
+        "OpeningValue": 1.0735,
+        "Max": 1.074,
+        "Min": 1.0642
+    },
+    {
+        "id": 594,
+        "Date": "26.05.2022",
+        "LastValue": 1.0724,
+        "OpeningValue": 1.0684,
+        "Max": 1.0733,
+        "Min": 1.0662
+    },
+    {
+        "id": 595,
+        "Date": "27.05.2022",
+        "LastValue": 1.0727,
+        "OpeningValue": 1.0726,
+        "Max": 1.0766,
+        "Min": 1.0697
+    },
+    {
+        "id": 596,
+        "Date": "30.05.2022",
+        "LastValue": 1.0777,
+        "OpeningValue": 1.0737,
+        "Max": 1.0788,
+        "Min": 1.0726
+    },
+    {
+        "id": 597,
+        "Date": "31.05.2022",
+        "LastValue": 1.0733,
+        "OpeningValue": 1.0778,
+        "Max": 1.078,
+        "Min": 1.0678
+    },
+    {
+        "id": 598,
+        "Date": "01.06.2022",
+        "LastValue": 1.0646,
+        "OpeningValue": 1.0734,
+        "Max": 1.0739,
+        "Min": 1.0626
+    },
+    {
+        "id": 599,
+        "Date": "02.06.2022",
+        "LastValue": 1.0745,
+        "OpeningValue": 1.0649,
+        "Max": 1.0751,
+        "Min": 1.0645
+    },
+    {
+        "id": 600,
+        "Date": "03.06.2022",
+        "LastValue": 1.0718,
+        "OpeningValue": 1.0747,
+        "Max": 1.0765,
+        "Min": 1.0704
+    },
+    {
+        "id": 601,
+        "Date": "06.06.2022",
+        "LastValue": 1.0694,
+        "OpeningValue": 1.0722,
+        "Max": 1.0753,
+        "Min": 1.0683
+    },
+    {
+        "id": 602,
+        "Date": "07.06.2022",
+        "LastValue": 1.0699,
+        "OpeningValue": 1.0695,
+        "Max": 1.0715,
+        "Min": 1.0652
+    },
+    {
+        "id": 603,
+        "Date": "08.06.2022",
+        "LastValue": 1.0714,
+        "OpeningValue": 1.07,
+        "Max": 1.0749,
+        "Min": 1.0671
+    },
+    {
+        "id": 604,
+        "Date": "09.06.2022",
+        "LastValue": 1.0614,
+        "OpeningValue": 1.0717,
+        "Max": 1.0775,
+        "Min": 1.0611
+    },
+    {
+        "id": 605,
+        "Date": "10.06.2022",
+        "LastValue": 1.0515,
+        "OpeningValue": 1.0617,
+        "Max": 1.0644,
+        "Min": 1.0505
+    },
+    {
+        "id": 606,
+        "Date": "13.06.2022",
+        "LastValue": 1.0408,
+        "OpeningValue": 1.0513,
+        "Max": 1.052,
+        "Min": 1.04
+    },
+    {
+        "id": 607,
+        "Date": "14.06.2022",
+        "LastValue": 1.0414,
+        "OpeningValue": 1.0411,
+        "Max": 1.0486,
+        "Min": 1.0396
+    },
+    {
+        "id": 608,
+        "Date": "15.06.2022",
+        "LastValue": 1.0443,
+        "OpeningValue": 1.0417,
+        "Max": 1.0509,
+        "Min": 1.0359
+    },
+    {
+        "id": 609,
+        "Date": "16.06.2022",
+        "LastValue": 1.0547,
+        "OpeningValue": 1.0442,
+        "Max": 1.0602,
+        "Min": 1.0381
+    },
+    {
+        "id": 610,
+        "Date": "17.06.2022",
+        "LastValue": 1.0498,
+        "OpeningValue": 1.0548,
+        "Max": 1.056,
+        "Min": 1.0445
+    },
+    {
+        "id": 611,
+        "Date": "20.06.2022",
+        "LastValue": 1.0509,
+        "OpeningValue": 1.0472,
+        "Max": 1.0546,
+        "Min": 1.0472
+    },
+    {
+        "id": 612,
+        "Date": "21.06.2022",
+        "LastValue": 1.0525,
+        "OpeningValue": 1.051,
+        "Max": 1.0583,
+        "Min": 1.0508
+    },
+    {
+        "id": 613,
+        "Date": "22.06.2022",
+        "LastValue": 1.0565,
+        "OpeningValue": 1.0527,
+        "Max": 1.0606,
+        "Min": 1.0468
+    },
+    {
+        "id": 614,
+        "Date": "23.06.2022",
+        "LastValue": 1.0523,
+        "OpeningValue": 1.0567,
+        "Max": 1.0582,
+        "Min": 1.0482
+    },
+    {
+        "id": 615,
+        "Date": "24.06.2022",
+        "LastValue": 1.0554,
+        "OpeningValue": 1.0526,
+        "Max": 1.0572,
+        "Min": 1.0511
+    },
+    {
+        "id": 616,
+        "Date": "27.06.2022",
+        "LastValue": 1.0583,
+        "OpeningValue": 1.0555,
+        "Max": 1.0616,
+        "Min": 1.0549
+    },
+    {
+        "id": 617,
+        "Date": "28.06.2022",
+        "LastValue": 1.0518,
+        "OpeningValue": 1.0585,
+        "Max": 1.0607,
+        "Min": 1.0503
+    },
+    {
+        "id": 618,
+        "Date": "29.06.2022",
+        "LastValue": 1.0439,
+        "OpeningValue": 1.0518,
+        "Max": 1.0537,
+        "Min": 1.0434
+    },
+    {
+        "id": 619,
+        "Date": "30.06.2022",
+        "LastValue": 1.0482,
+        "OpeningValue": 1.0441,
+        "Max": 1.0489,
+        "Min": 1.0382
+    },
+    {
+        "id": 620,
+        "Date": "01.07.2022",
+        "LastValue": 1.0428,
+        "OpeningValue": 1.0481,
+        "Max": 1.0487,
+        "Min": 1.0366
+    },
+    {
+        "id": 621,
+        "Date": "04.07.2022",
+        "LastValue": 1.0421,
+        "OpeningValue": 1.0424,
+        "Max": 1.0464,
+        "Min": 1.0417
+    },
+    {
+        "id": 622,
+        "Date": "05.07.2022",
+        "LastValue": 1.0266,
+        "OpeningValue": 1.0419,
+        "Max": 1.045,
+        "Min": 1.0235
+    },
+    {
+        "id": 623,
+        "Date": "06.07.2022",
+        "LastValue": 1.0181,
+        "OpeningValue": 1.0268,
+        "Max": 1.0277,
+        "Min": 1.0161
+    },
+    {
+        "id": 624,
+        "Date": "07.07.2022",
+        "LastValue": 1.0159,
+        "OpeningValue": 1.0181,
+        "Max": 1.0222,
+        "Min": 1.0144
+    },
+    {
+        "id": 625,
+        "Date": "08.07.2022",
+        "LastValue": 1.0183,
+        "OpeningValue": 1.0159,
+        "Max": 1.0193,
+        "Min": 1.0072
+    },
+    {
+        "id": 626,
+        "Date": "11.07.2022",
+        "LastValue": 1.0039,
+        "OpeningValue": 1.0173,
+        "Max": 1.0185,
+        "Min": 1.0034
+    },
+    {
+        "id": 627,
+        "Date": "12.07.2022",
+        "LastValue": 1.0036,
+        "OpeningValue": 1.004,
+        "Max": 1.0074,
+        "Min": 0.9999
+    },
+    {
+        "id": 628,
+        "Date": "13.07.2022",
+        "LastValue": 1.006,
+        "OpeningValue": 1.004,
+        "Max": 1.0123,
+        "Min": 0.9998
+    },
+    {
+        "id": 629,
+        "Date": "14.07.2022",
+        "LastValue": 1.0016,
+        "OpeningValue": 1.0061,
+        "Max": 1.0065,
+        "Min": 0.9952
+    },
+    {
+        "id": 630,
+        "Date": "15.07.2022",
+        "LastValue": 1.0087,
+        "OpeningValue": 1.0018,
+        "Max": 1.0099,
+        "Min": 1.0007
+    },
+    {
+        "id": 631,
+        "Date": "18.07.2022",
+        "LastValue": 1.0141,
+        "OpeningValue": 1.0085,
+        "Max": 1.0202,
+        "Min": 1.0078
+    },
+    {
+        "id": 632,
+        "Date": "19.07.2022",
+        "LastValue": 1.0224,
+        "OpeningValue": 1.0143,
+        "Max": 1.027,
+        "Min": 1.012
+    },
+    {
+        "id": 633,
+        "Date": "20.07.2022",
+        "LastValue": 1.0177,
+        "OpeningValue": 1.0228,
+        "Max": 1.0274,
+        "Min": 1.0155
+    },
+    {
+        "id": 634,
+        "Date": "21.07.2022",
+        "LastValue": 1.0228,
+        "OpeningValue": 1.0178,
+        "Max": 1.0279,
+        "Min": 1.0153
+    },
+    {
+        "id": 635,
+        "Date": "22.07.2022",
+        "LastValue": 1.021,
+        "OpeningValue": 1.023,
+        "Max": 1.0256,
+        "Min": 1.0129
+    },
+    {
+        "id": 636,
+        "Date": "25.07.2022",
+        "LastValue": 1.022,
+        "OpeningValue": 1.0212,
+        "Max": 1.0259,
+        "Min": 1.0179
+    },
+    {
+        "id": 637,
+        "Date": "26.07.2022",
+        "LastValue": 1.0114,
+        "OpeningValue": 1.022,
+        "Max": 1.0251,
+        "Min": 1.0107
+    },
+    {
+        "id": 638,
+        "Date": "27.07.2022",
+        "LastValue": 1.0202,
+        "OpeningValue": 1.0116,
+        "Max": 1.0222,
+        "Min": 1.0096
+    },
+    {
+        "id": 639,
+        "Date": "28.07.2022",
+        "LastValue": 1.0196,
+        "OpeningValue": 1.0198,
+        "Max": 1.0236,
+        "Min": 1.0114
+    },
+    {
+        "id": 640,
+        "Date": "29.07.2022",
+        "LastValue": 1.0218,
+        "OpeningValue": 1.0196,
+        "Max": 1.0255,
+        "Min": 1.0145
+    },
+    {
+        "id": 641,
+        "Date": "01.08.2022",
+        "LastValue": 1.0261,
+        "OpeningValue": 1.0218,
+        "Max": 1.0276,
+        "Min": 1.0205
+    },
+    {
+        "id": 642,
+        "Date": "02.08.2022",
+        "LastValue": 1.0164,
+        "OpeningValue": 1.0261,
+        "Max": 1.0295,
+        "Min": 1.0163
+    },
+    {
+        "id": 643,
+        "Date": "03.08.2022",
+        "LastValue": 1.0164,
+        "OpeningValue": 1.0166,
+        "Max": 1.021,
+        "Min": 1.0122
+    },
+    {
+        "id": 644,
+        "Date": "04.08.2022",
+        "LastValue": 1.0243,
+        "OpeningValue": 1.0162,
+        "Max": 1.0254,
+        "Min": 1.0154
+    },
+    {
+        "id": 645,
+        "Date": "05.08.2022",
+        "LastValue": 1.0181,
+        "OpeningValue": 1.0247,
+        "Max": 1.0253,
+        "Min": 1.0141
+    },
+    {
+        "id": 646,
+        "Date": "08.08.2022",
+        "LastValue": 1.0195,
+        "OpeningValue": 1.0179,
+        "Max": 1.0223,
+        "Min": 1.0158
+    },
+    {
+        "id": 647,
+        "Date": "09.08.2022",
+        "LastValue": 1.0211,
+        "OpeningValue": 1.0198,
+        "Max": 1.0248,
+        "Min": 1.0188
+    },
+    {
+        "id": 648,
+        "Date": "10.08.2022",
+        "LastValue": 1.0297,
+        "OpeningValue": 1.0214,
+        "Max": 1.0369,
+        "Min": 1.0201
+    },
+    {
+        "id": 649,
+        "Date": "11.08.2022",
+        "LastValue": 1.0317,
+        "OpeningValue": 1.0299,
+        "Max": 1.0366,
+        "Min": 1.0275
+    },
+    {
+        "id": 650,
+        "Date": "12.08.2022",
+        "LastValue": 1.0258,
+        "OpeningValue": 1.0316,
+        "Max": 1.0329,
+        "Min": 1.0237
+    },
+    {
+        "id": 651,
+        "Date": "15.08.2022",
+        "LastValue": 1.016,
+        "OpeningValue": 1.0263,
+        "Max": 1.027,
+        "Min": 1.0155
+    },
+    {
+        "id": 652,
+        "Date": "16.08.2022",
+        "LastValue": 1.017,
+        "OpeningValue": 1.0162,
+        "Max": 1.0195,
+        "Min": 1.0122
+    },
+    {
+        "id": 653,
+        "Date": "17.08.2022",
+        "LastValue": 1.018,
+        "OpeningValue": 1.017,
+        "Max": 1.0203,
+        "Min": 1.0145
+    },
+    {
+        "id": 654,
+        "Date": "18.08.2022",
+        "LastValue": 1.0088,
+        "OpeningValue": 1.018,
+        "Max": 1.0194,
+        "Min": 1.0079
+    },
+    {
+        "id": 655,
+        "Date": "19.08.2022",
+        "LastValue": 1.0034,
+        "OpeningValue": 1.0089,
+        "Max": 1.0096,
+        "Min": 1.0031
+    },
+    {
+        "id": 656,
+        "Date": "22.08.2022",
+        "LastValue": 0.9941,
+        "OpeningValue": 1.0041,
+        "Max": 1.0048,
+        "Min": 0.9926
+    },
+    {
+        "id": 657,
+        "Date": "23.08.2022",
+        "LastValue": 0.9967,
+        "OpeningValue": 0.9944,
+        "Max": 1.0019,
+        "Min": 0.99
+    },
+    {
+        "id": 658,
+        "Date": "24.08.2022",
+        "LastValue": 0.9965,
+        "OpeningValue": 0.997,
+        "Max": 1.0,
+        "Min": 0.9909
+    },
+    {
+        "id": 659,
+        "Date": "25.08.2022",
+        "LastValue": 0.9974,
+        "OpeningValue": 0.9967,
+        "Max": 1.0035,
+        "Min": 0.9948
+    },
+    {
+        "id": 660,
+        "Date": "26.08.2022",
+        "LastValue": 0.9961,
+        "OpeningValue": 0.9974,
+        "Max": 1.0091,
+        "Min": 0.9947
+    },
+    {
+        "id": 661,
+        "Date": "29.08.2022",
+        "LastValue": 0.9995,
+        "OpeningValue": 0.9977,
+        "Max": 1.0029,
+        "Min": 0.9913
+    },
+    {
+        "id": 662,
+        "Date": "30.08.2022",
+        "LastValue": 1.0012,
+        "OpeningValue": 0.9996,
+        "Max": 1.0056,
+        "Min": 0.9981
+    },
+    {
+        "id": 663,
+        "Date": "31.08.2022",
+        "LastValue": 1.0057,
+        "OpeningValue": 1.0014,
+        "Max": 1.0079,
+        "Min": 0.9971
+    },
+    {
+        "id": 664,
+        "Date": "01.09.2022",
+        "LastValue": 0.9944,
+        "OpeningValue": 1.0055,
+        "Max": 1.0057,
+        "Min": 0.9911
+    },
+    {
+        "id": 665,
+        "Date": "02.09.2022",
+        "LastValue": 0.9951,
+        "OpeningValue": 0.9945,
+        "Max": 1.0035,
+        "Min": 0.9942
+    },
+    {
+        "id": 666,
+        "Date": "05.09.2022",
+        "LastValue": 0.9926,
+        "OpeningValue": 0.995,
+        "Max": 0.995,
+        "Min": 0.9877
+    },
+    {
+        "id": 667,
+        "Date": "06.09.2022",
+        "LastValue": 0.9902,
+        "OpeningValue": 0.9927,
+        "Max": 0.9987,
+        "Min": 0.9863
+    },
+    {
+        "id": 668,
+        "Date": "07.09.2022",
+        "LastValue": 0.9999,
+        "OpeningValue": 0.9904,
+        "Max": 1.0012,
+        "Min": 0.9875
+    },
+    {
+        "id": 669,
+        "Date": "08.09.2022",
+        "LastValue": 0.9994,
+        "OpeningValue": 1.0002,
+        "Max": 1.003,
+        "Min": 0.993
+    },
+    {
+        "id": 670,
+        "Date": "09.09.2022",
+        "LastValue": 1.0039,
+        "OpeningValue": 0.9995,
+        "Max": 1.0114,
+        "Min": 0.9995
+    },
+    {
+        "id": 671,
+        "Date": "12.09.2022",
+        "LastValue": 1.0119,
+        "OpeningValue": 1.008,
+        "Max": 1.0199,
+        "Min": 1.0059
+    },
+    {
+        "id": 672,
+        "Date": "13.09.2022",
+        "LastValue": 0.997,
+        "OpeningValue": 1.0123,
+        "Max": 1.0188,
+        "Min": 0.9966
+    },
+    {
+        "id": 673,
+        "Date": "14.09.2022",
+        "LastValue": 0.9977,
+        "OpeningValue": 0.9969,
+        "Max": 1.0024,
+        "Min": 0.9955
+    },
+    {
+        "id": 674,
+        "Date": "15.09.2022",
+        "LastValue": 0.9999,
+        "OpeningValue": 0.998,
+        "Max": 1.0019,
+        "Min": 0.9955
+    },
+    {
+        "id": 675,
+        "Date": "16.09.2022",
+        "LastValue": 1.0015,
+        "OpeningValue": 1.0001,
+        "Max": 1.0037,
+        "Min": 0.9944
+    },
+    {
+        "id": 676,
+        "Date": "19.09.2022",
+        "LastValue": 1.0022,
+        "OpeningValue": 1.0012,
+        "Max": 1.003,
+        "Min": 0.9966
+    },
+    {
+        "id": 677,
+        "Date": "20.09.2022",
+        "LastValue": 0.997,
+        "OpeningValue": 1.0023,
+        "Max": 1.0051,
+        "Min": 0.9955
+    },
+    {
+        "id": 678,
+        "Date": "21.09.2022",
+        "LastValue": 0.9837,
+        "OpeningValue": 0.9972,
+        "Max": 0.9978,
+        "Min": 0.9813
+    },
+    {
+        "id": 679,
+        "Date": "22.09.2022",
+        "LastValue": 0.9836,
+        "OpeningValue": 0.9837,
+        "Max": 0.9908,
+        "Min": 0.9808
+    },
+    {
+        "id": 680,
+        "Date": "23.09.2022",
+        "LastValue": 0.969,
+        "OpeningValue": 0.9837,
+        "Max": 0.9852,
+        "Min": 0.9668
+    },
+    {
+        "id": 681,
+        "Date": "26.09.2022",
+        "LastValue": 0.9606,
+        "OpeningValue": 0.9679,
+        "Max": 0.9711,
+        "Min": 0.9567
+    },
+    {
+        "id": 682,
+        "Date": "27.09.2022",
+        "LastValue": 0.9592,
+        "OpeningValue": 0.961,
+        "Max": 0.9671,
+        "Min": 0.9568
+    },
+    {
+        "id": 683,
+        "Date": "28.09.2022",
+        "LastValue": 0.9734,
+        "OpeningValue": 0.9594,
+        "Max": 0.9751,
+        "Min": 0.9535
+    },
+    {
+        "id": 684,
+        "Date": "29.09.2022",
+        "LastValue": 0.9814,
+        "OpeningValue": 0.9735,
+        "Max": 0.9816,
+        "Min": 0.9635
+    },
+    {
+        "id": 685,
+        "Date": "30.09.2022",
+        "LastValue": 0.9799,
+        "OpeningValue": 0.9816,
+        "Max": 0.9855,
+        "Min": 0.9735
+    }
+]
