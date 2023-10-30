@@ -5,7 +5,7 @@
 Użyte technologie: kod: Python(framework: Flask), Wizualizacja danych: https://www.metabase.com/ oraz React.js, BD: PostgreSQL, Testy backend: Postman
 Kod operuje na wybranych typach plików: .CSV, .XML, .JSON
 
-Dołączony jest film pokazujący wybrane funkcjonalności aplikacji.
+Dołączony jest film pokazujący wybrane funkcjonalności aplikacji: https://drive.google.com/drive/folders/1tu0UObeQ-RCbpBMovvWlNAGreNGfrLwY?usp=sharing.
 
 Źródła wykorzystanych danych: 
 - plik "events" zawiera wybrane przeze mnie ważne wydarzenia historyczne z pandemii COVID-19 oraz źródła, skąd zaczerpnięte są informacje
