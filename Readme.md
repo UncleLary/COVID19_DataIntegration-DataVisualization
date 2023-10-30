@@ -1,12 +1,8 @@
 # COVID19_DataIntegration-DataVisualization
 
-Kowalski Łukasz	  IO 6.5 									Lublin, 2023
-
-Projekt zaliczeniowy z przedmiotu Integracja Systemów
-
 ,,Zestawienie różnych danych statystycznych w czasie trwania pandemii COVID-19, prezentacja zmian wartości w wybranym okresie.”
 
-Użyte technologie: Python, Wizualizacja danych: https://www.metabase.com/, BD: PostgreSQL
+Użyte technologie: Python, Wizualizacja danych: https://www.metabase.com/ oraz React.js, BD: PostgreSQL, Postman
 
 Źródła wykorzystanych danych: 
 - covidowe api do Pythona: https://covid19datahub.io/articles/docs.html#epidemiological-variables
